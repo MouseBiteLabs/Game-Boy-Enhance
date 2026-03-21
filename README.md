@@ -1,7 +1,14 @@
 # AGBM-01
 Placeholder
+<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/5300df0b-853d-4f9b-a037-78d8d90d865a" />
+<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/28384f91-da9c-410b-a69d-511a5890fa66" />
 
-## Bill of Materials (BOM)
+<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/fe03cf74-4998-40d5-a49f-7f23d2dd9cf6" />
+<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/ad5cdfc7-6781-4a6b-be74-9a8515f044fe" />
+
+
+
+## Bill of Materials (BOM) - OUTDATED!
 
 | Reference | Value/Part Number   | Package             | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
