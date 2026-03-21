@@ -1,5 +1,7 @@
-# AGBM-01
-Placeholder
+# Game Boy Enhance (AGBM) - Work in Progress
+
+A new GBA design with much improved power delivery and audio quality over stock systems. This repository is a work in progress, most info is outdated!
+
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/5300df0b-853d-4f9b-a037-78d8d90d865a" />
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/28384f91-da9c-410b-a69d-511a5890fa66" />
 
