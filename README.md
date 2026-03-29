@@ -1,6 +1,6 @@
 # Game Boy Enhance (AGBM) - Work in Progress
 
-A new GBA design with much improved power delivery and audio quality over stock systems. This repository is a work in progress, most info is outdated!
+A new GBA design with much improved power delivery and audio quality over stock systems. This repository is a work in progress.
 
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/5300df0b-853d-4f9b-a037-78d8d90d865a" />
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/28384f91-da9c-410b-a69d-511a5890fa66" />
@@ -10,7 +10,7 @@ A new GBA design with much improved power delivery and audio quality over stock 
 
 ## Acknowledgements
 
-- Thanks to the awesome members of the <a href="https://moddedgameboy.club/">Modded Gameboy Club</a> for their feedback and support during the entire project development.
+- Thanks to the awesome members of the <a href="https://moddedgameboy.club/">Modded Gameboy Club</a> for their feedback and support during the project development. (Special shoutout to White for the suggestion of the name "Game Boy Enhance.")
 - Thank you Redherring32 for starting the [OpenGBA](https://github.com/Redherring32/OpenTendo-AGB) project and allowing me to finish it up. He measured out the board and placed the ports and saved me a ton of time.
 - Thanks Zekfoo for providing inspiration with his [AGZ](https://github.com/Zekfoo/AGZ/tree/main) project (specifically giving me a great idea of where to put the USB-C and JST connector for the LiPo version).
 
