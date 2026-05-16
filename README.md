@@ -11,7 +11,8 @@ A new GBA design with much improved power delivery and audio quality over stock 
 ## Acknowledgements
 
 - Thanks to the awesome members of the <a href="https://moddedgameboy.club/">Modded Gameboy Club</a> for their feedback and support during the project development. (Special shoutout to White for the suggestion of the name "Game Boy Enhance.")
-- Thank you Redherring32 for starting the [OpenGBA](https://github.com/Redherring32/OpenTendo-AGB) project and allowing me to finish it up. He measured out the board and placed the ports and saved me a ton of time.
+- Thank you Redherring32 for starting the [OpenGBA](https://github.com/Redherring32/OpenTendo-AGB) project and allowing me to finish it up. He measured out the board and placed the ports and saved me a *ton* of time.
+- Special thanks to lidnariq from gbdev for helping me realize the best possible audio quality possible out of this thing.
 - Thanks Zekfoo for providing inspiration with his [AGZ](https://github.com/Zekfoo/AGZ/tree/main) project (specifically giving me a great idea of where to put the USB-C and JST connector for the LiPo version).
 
 ## License
