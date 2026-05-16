@@ -5,207 +5,209 @@
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
 | C1        | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
-| C2        | 10u                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/qd4q4f1m](https://www.digikey.com/short/qd4q4f1m) |
-| C3        | 27p                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3dr3j004](https://www.digikey.com/short/3dr3j004) |
-| C4        | 33p                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/q8jbrfqj](https://www.digikey.com/short/q8jbrfqj) |
-| C5        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C6        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C7        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C8        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C9        | 3300p               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3p3jj3wt](https://www.digikey.com/short/3p3jj3wt) |
-| C10       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C11       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C12       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C13       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C14       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C15       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C16       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C17       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
+| C2        | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C3        | 27p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3dr3j004                                           |
+| C4        | 33p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q8jbrfqj                                           |
+| C5        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C6        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C7        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C8        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C9        | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C10       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C11       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C12       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C13       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C14       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C15       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C16       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C17       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C18       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
-| C19       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
-| C20       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
-| C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
-| C22       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/qd4q4f1m](https://www.digikey.com/short/qd4q4f1m) |
-| C23       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/qd4q4f1m](https://www.digikey.com/short/qd4q4f1m) |
-| C24       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/377h8558](https://www.digikey.com/short/377h8558) |
-| C25       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C26       | 680p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/jm5qjr7w](https://www.digikey.com/short/jm5qjr7w) |
-| C27       | 330p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/5ptw22qq](https://www.digikey.com/short/5ptw22qq) |
-| C28       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3p3jj3wt](https://www.digikey.com/short/3p3jj3wt) |
-| C29       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C30       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C31       | 680p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/jm5qjr7w](https://www.digikey.com/short/jm5qjr7w) |
-| C32       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/377h8558](https://www.digikey.com/short/377h8558) |
-| C33       | 330p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/5ptw22qq](https://www.digikey.com/short/5ptw22qq) |
-| C34       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C35       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3p3jj3wt](https://www.digikey.com/short/3p3jj3wt) |
-| C36       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C37       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/qd4q4f1m](https://www.digikey.com/short/qd4q4f1m) |
-| C38       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C39       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C40       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/q58vhz49](https://www.digikey.com/short/q58vhz49) |
-| C41       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/q58vhz49](https://www.digikey.com/short/q58vhz49) |
-| C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
-| C43       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C44       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C45       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C46       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C47       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C48       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C49       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C50       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C51       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C52       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C53       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C54       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C55       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C56       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C57       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
-| C58       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
-| C59       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C60       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/qd4q4f1m](https://www.digikey.com/short/qd4q4f1m) |
-| C61       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3p3jj3wt](https://www.digikey.com/short/3p3jj3wt) |
-| C62       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C63       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C64       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C65       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
-| C66       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
-| C67       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
-| C68       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/qd4q4f1m](https://www.digikey.com/short/qd4q4f1m) |
-| C69       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/2ppmm3vt](https://www.digikey.com/short/2ppmm3vt) |
-| C70       | 27p                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3dr3j004](https://www.digikey.com/short/3dr3j004) |
-| C71       | 27p                 | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3dr3j004](https://www.digikey.com/short/3dr3j004) |
-| C72       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/m958w3z3](https://www.digikey.com/short/m958w3z3) |
-| C74       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C75       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C76       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C77       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| C78       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/j50jww8m](https://www.digikey.com/short/j50jww8m) |
-| CP1       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | [https://www.digikey.com/short/332b01qh](https://www.digikey.com/short/332b01qh) |
-| CP2       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | [https://www.digikey.com/short/332b01qh](https://www.digikey.com/short/332b01qh) |
-| CP3       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | [https://www.digikey.com/short/332b01qh](https://www.digikey.com/short/332b01qh) |
-| D2        | BAT54               | SOD-123       | Schottky Diode                    |                      | [https://www.digikey.com/short/52447897](https://www.digikey.com/short/52447897) |
-| D3        | SMF5.0A-T13         | SOD-123       | TVS Diode                         |                      | [https://www.digikey.com/short/nzrz22b5](https://www.digikey.com/short/nzrz22b5) |
-| DL1       | 150060VS75000       | 0603          | Green LED                         |                      | [https://www.digikey.com/short/93mfrvjw](https://www.digikey.com/short/93mfrvjw) |
-| DL2       | 150060RS75000       | 0603          | Red LED                           |                      | [https://www.digikey.com/short/qrn5fp39](https://www.digikey.com/short/qrn5fp39) |
-| DL3       | 150060AS75000       | 0603          | Amber LED                         |                      | [https://www.digikey.com/short/p7j0tphr](https://www.digikey.com/short/p7j0tphr) |
-| EM1       | ACM2520-801-3P-T002 | 6 PC Pad      | Common Mode Choke                 |                      | [https://www.digikey.com/short/771087dh](https://www.digikey.com/short/771087dh) |
-| EM2       | ACM2520-801-3P-T002 | 6 PC Pad      | Common Mode Choke                 |                      | [https://www.digikey.com/short/771087dh](https://www.digikey.com/short/771087dh) |
-| EM3       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | [https://www.digikey.com/short/c329ffdd](https://www.digikey.com/short/c329ffdd) |
-| EM7       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | [https://www.digikey.com/short/c329ffdd](https://www.digikey.com/short/c329ffdd) |
-| F1        | 0467001.NR          | 0603          | Fuse, 1A                          |                      | [https://www.digikey.com/short/0n759bt9](https://www.digikey.com/short/0n759bt9) |
-| F2        | 0467001.NR          | 0603          | Fuse, 1A                          |                      | [https://www.digikey.com/short/0n759bt9](https://www.digikey.com/short/0n759bt9) |
+| C19       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
+| C20       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
+| C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3mhhrd2f                                           |
+| C22       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C23       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C24       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/377h8558                                           |
+| C25       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C26       | 680p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/jm5qjr7w                                           |
+| C27       | 330p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/5ptw22qq                                           |
+| C28       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3p3jj3wt                                           |
+| C29       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C30       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C31       | 680p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/jm5qjr7w                                           |
+| C32       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/377h8558                                           |
+| C33       | 330p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/5ptw22qq                                           |
+| C34       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C35       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3p3jj3wt                                           |
+| C36       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C37       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C38       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C39       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C40       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q58vhz49                                           |
+| C41       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q58vhz49                                           |
+| C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3mhhrd2f                                           |
+| C43       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C44       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C45       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C46       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C47       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C48       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C49       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C50       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C51       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C52       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C53       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C54       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C55       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C56       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C59       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C60       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C61       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3p3jj3wt                                           |
+| C62       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C63       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C64       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C65       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C66       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C68       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C69       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
+| C72       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
+| C74       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C75       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C76       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C77       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| C78       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
+| CP1       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/332b01qh                                           |
+| CP2       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/332b01qh                                           |
+| CP3       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/332b01qh                                           |
+| D1        | SMF5.0A-T13         | SOD-123       | TVS Diode                         |                      | [https://www.digikey.com/short/rbdmt4p7](https://www.digikey.com/short/rbdmt4p7) |
+| D2        | 1SS355VMTE-17       | SOD-323       | Diode                             |                      | https://www.digikey.com/short/b42wmndz                                           |
+| DL1       | 150060VS75000       | 0603          | LED (Green)                       |                      | https://www.digikey.com/short/ttf7q4w7                                           |
+| DL2       | 150060RS75000       | 0603          | LED (Red)                         |                      | https://www.digikey.com/short/83vdcfv3                                           |
+| DL3       | 150060AS75000       | 0603          | LED (Amber)                       |                      | [https://www.digikey.com/short/p7j0tphr](https://www.digikey.com/short/p7j0tphr) |
+| EM1       | ACM2520-801-3P-T002 | 6 PC Pad      | Common Mode Choke                 |                      | https://www.digikey.com/short/771087dh                                           |
+| EM2       | ACM2520-801-3P-T002 | 6 PC Pad      | Common Mode Choke                 |                      | https://www.digikey.com/short/771087dh                                           |
+| EM3       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | https://www.digikey.com/short/c329ffdd                                           |
+| EM7       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | https://www.digikey.com/short/c329ffdd                                           |
+| F1        | F0805B2R00FSTR      | 0805          | Fuse, 2A                          |                      | https://www.digikey.com/short/98cdp3tv                                           |
+| F1        | F0805B2R00FSTR      | 0805          | Fuse, 2A                          |                      | https://www.digikey.com/short/98cdp3tv                                           |
 | J1        | JST-SH              | 1mm Spacing   | JST SH Connector                  |                      | [https://www.digikey.com/short/j8rp8493](https://www.digikey.com/short/j8rp8493) |
-| L1        | 4.7uH               | 1212          | Inductor (LSXND3030QKT4R7MNG)     |                      | [https://www.digikey.com/short/m9hwf8cw](https://www.digikey.com/short/m9hwf8cw) |
-| L2        | 4.7uH               | 1212          | Inductor (LSXND3030QKT4R7MNG)     |                      | [https://www.digikey.com/short/m9hwf8cw](https://www.digikey.com/short/m9hwf8cw) |
-| P1        | AGB Cart Slot       |               | GBA Cartridge Slot                | Yes                  | [https://tinyurl.com/4uwbr8er](https://tinyurl.com/4uwbr8er)                     |
-| P2        | 62684-402100ALF     | 40-pin, 0.5mm | FFC Connector, Top Contact        |                      | [https://www.digikey.com/short/13cnr9vq](https://www.digikey.com/short/13cnr9vq) |
-| P3        | SJ3-35083B-TR       |               | 3.5mm TRS Audio Jack              |                      | [https://www.digikey.com/short/prf41nr5](https://www.digikey.com/short/prf41nr5) |
-| P4        | AGB Link Port       |               | GBA Link Port                     | Yes                  | [https://tinyurl.com/253x94mn](https://tinyurl.com/253x94mn)                     |
+| L1        | 4.7uH               | 1212          | Inductor (LSXND3030QKT4R7MNG)     |                      | https://www.digikey.com/short/m9hwf8cw                                           |
+| L2        | 4.7uH               | 1212          | Inductor (LSXND3030QKT4R7MNG)     |                      | https://www.digikey.com/short/m9hwf8cw                                           |
+| P1        | CART SLOT           |               | GBA Cartridge Slot                | Yes                  | https://tinyurl.com/4uwbr8er                                                     |
+| P2        | FFC CONNECTOR       | 40-pin, 0.5mm | FFC Connector, Top Contact        |                      | https://www.digikey.com/short/13cnr9vq                                           |
+| P3        | SJ-3524-SMT         |               | 3.5mm TRS Audio Jack              |                      | https://www.digikey.com/short/r4b2bq43                                           |
+| P4        | AGB-LINK            |               | GBA Link Port                     | Yes                  | https://tinyurl.com/253x94mn                                                     |
 | P5        | 2171750001          | USB-C         | USB-C 6-pin receptacle            |                      | [https://www.digikey.com/short/jmfqt488](https://www.digikey.com/short/jmfqt488) |
-| PTC1      | 0805L050WR          | 0805          | Polyfuse, 500mA Ihold             |                      | [https://www.digikey.com/short/f75wnbvp](https://www.digikey.com/short/f75wnbvp) |
-| Q1        | 2N3904              | SOT-23        | NPN BJT                           |                      | [https://www.digikey.com/short/5j230h4f](https://www.digikey.com/short/5j230h4f) |
-| Q2        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | [https://www.digikey.com/short/28n9329f](https://www.digikey.com/short/28n9329f) |
-| Q3        | 2N3906              | SOT-23        | PNP BJT                           |                      | [https://www.digikey.com/short/hhdhqzd8](https://www.digikey.com/short/hhdhqzd8) |
+| PTC1      | 0805L075SLYR        | 0805          | PTC, Resettable Fuse              |                      | https://www.digikey.com/short/43nq0332                                           |
+| Q1        | 2N3904              | SOT-23        | NPN BJT                           |                      | https://www.digikey.com/short/5j230h4f                                           |
+| Q2        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
+| Q3        | 2N3906              | SOT-23        | PNP BJT                           |                      | https://www.digikey.com/short/hhdhqzd8                                           |
 | Q4        | NTGD3148            | SOT-23-6      | N-Channel FETs                    |                      | [https://www.digikey.com/short/v9w8j9zb](https://www.digikey.com/short/v9w8j9zb) |
-| Q5        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | [https://www.digikey.com/short/28n9329f](https://www.digikey.com/short/28n9329f) |
-| Q6        | 2N7002              | SOT-23        | N-Channel MOSFET                  |                      | [https://www.digikey.com/short/vbm0z4md](https://www.digikey.com/short/vbm0z4md) |
-| Q7        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | [https://www.digikey.com/short/28n9329f](https://www.digikey.com/short/28n9329f) |
-| Q8        | 2N7002              | SOT-23        | N-Channel MOSFET                  |                      | [https://www.digikey.com/short/vbm0z4md](https://www.digikey.com/short/vbm0z4md) |
-| Q9        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | [https://www.digikey.com/short/28n9329f](https://www.digikey.com/short/28n9329f) |
-| Q10       | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | [https://www.digikey.com/short/28n9329f](https://www.digikey.com/short/28n9329f) |
-| R1        | 1.5M                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/pd49zr2b](https://www.digikey.com/short/pd49zr2b) |
-| R2        | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R3        | 1k                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/nwddb5fm](https://www.digikey.com/short/nwddb5fm) |
-| R4        | 20k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/38d0p2b4](https://www.digikey.com/short/38d0p2b4) |
-| R5        | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R6        | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R7        | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R8        | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R9        | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R10       | 20k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/38d0p2b4](https://www.digikey.com/short/38d0p2b4) |
-| R11       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R12       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R13       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R14       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R15       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R16       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R17       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R18       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R19       | 1k                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/nwddb5fm](https://www.digikey.com/short/nwddb5fm) |
-| R20       | 1k                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/nwddb5fm](https://www.digikey.com/short/nwddb5fm) |
-| R21       | 1.78M               | 0603          | Resistor                          |                      | [https://www.digikey.com/short/mt3hp154](https://www.digikey.com/short/mt3hp154) |
-| R22       | 560k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/4j81pmvr](https://www.digikey.com/short/4j81pmvr) |
-| R23       | 1.78M               | 0603          | Resistor                          |                      | [https://www.digikey.com/short/mt3hp154](https://www.digikey.com/short/mt3hp154) |
-| R24       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R25       | 3.3k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/w0t24jpv](https://www.digikey.com/short/w0t24jpv) |
-| R26       | 470                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t3tvtf3w](https://www.digikey.com/short/t3tvtf3w) |
-| R27       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
+| Q5        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
+| Q6        | 2N7002              | SOT-23        | N-Channel MOSFET                  |                      | https://www.digikey.com/short/vbm0z4md                                           |
+| Q7        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
+| Q8        | 2N7002              | SOT-23        | N-Channel MOSFET                  |                      | https://www.digikey.com/short/vbm0z4md                                           |
+| Q9        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
+| Q10       | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
+| R1        | 1.5M                | 0603          | Resistor                          |                      | https://www.digikey.com/short/pd49zr2b                                           |
+| R2        | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R3        | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
+| R4        | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
+| R5        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R6        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R7        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R8        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R9        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R10       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
+| R11       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
+| R12       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R13       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R14       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R15       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R16       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R17       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R18       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R19       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
+| R20       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
+| R21       | 1.78M               | 0603          | Resistor                          |                      | https://www.digikey.com/short/mt3hp154                                           |
+| R22       | 560k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/3t5fhht8                                           |
+| R23       | 1.78M               | 0603          | Resistor                          |                      | https://www.digikey.com/short/mt3hp154                                           |
+| R24       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R25       | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/w0t24jpv                                           |
+| R26       | 33k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t0dpzzp1                                           |
+| R27       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
 | R28       | 2.49k               | 0603          | Resistor                          |                      | [https://www.digikey.com/short/crrrfpbn](https://www.digikey.com/short/crrrfpbn) |
-| R29       | 18k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/1rfwtcff](https://www.digikey.com/short/1rfwtcff) |
-| R30       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R31       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R32       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R33       | 10k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/t130htj0](https://www.digikey.com/short/t130htj0) |
-| R34       | 5.1k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qqj3r2v5](https://www.digikey.com/short/qqj3r2v5) |
-| R35       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R36       | 270                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/85p4bp5h](https://www.digikey.com/short/85p4bp5h) |
-| R37       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R38       | 47                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/2trwn31h](https://www.digikey.com/short/2trwn31h) |
-| R39       | 47                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/2trwn31h](https://www.digikey.com/short/2trwn31h) |
-| R40       | 15                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/87bjrzr2](https://www.digikey.com/short/87bjrzr2) |
-| R41       | 2.2k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/89v4f1wn](https://www.digikey.com/short/89v4f1wn) |
-| R42       | 7.5k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/vn4221jt](https://www.digikey.com/short/vn4221jt) |
-| R43       | 15                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/87bjrzr2](https://www.digikey.com/short/87bjrzr2) |
-| R44       | 15                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/87bjrzr2](https://www.digikey.com/short/87bjrzr2) |
-| R45       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R46       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R47       | 20k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/38d0p2b4](https://www.digikey.com/short/38d0p2b4) |
-| R48       | 18k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/1rfwtcff](https://www.digikey.com/short/1rfwtcff) |
-| R49       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R50       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R51       | 7.5k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/vn4221jt](https://www.digikey.com/short/vn4221jt) |
-| R52       | 20k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/38d0p2b4](https://www.digikey.com/short/38d0p2b4) |
-| R53       | 5.1k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qqj3r2v5](https://www.digikey.com/short/qqj3r2v5) |
-| R54       | 18k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/1rfwtcff](https://www.digikey.com/short/1rfwtcff) |
-| R55       | 1M                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/pwjt9n2j](https://www.digikey.com/short/pwjt9n2j) |
-| R56       | 20k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/38d0p2b4](https://www.digikey.com/short/38d0p2b4) |
-| R57       | 20k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/38d0p2b4](https://www.digikey.com/short/38d0p2b4) |
-| R58       | 1k                  | 0603          | Resistor                          |                      | [https://www.digikey.com/short/nwddb5fm](https://www.digikey.com/short/nwddb5fm) |
+| R29       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
+| R30       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R31       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R32       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R33       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R34       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
+| R35       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R36       | 270                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/85p4bp5h                                           |
+| R37       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R38       | 47                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/2trwn31h                                           |
+| R39       | 47                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/2trwn31h                                           |
+| R40       | 15                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/d1537pn3                                           |
+| R41       | 2.2k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/89v4f1wn                                           |
+| R42       | 7.5k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/vn4221jt                                           |
+| R43       | 15                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/d1537pn3                                           |
+| R44       | 15                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/d1537pn3                                           |
+| R45       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R46       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R47       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
+| R48       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
+| R49       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R50       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R51       | 7.5k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/vn4221jt                                           |
+| R52       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
+| R53       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
+| R54       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
+| R55       | 1M                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/pwjt9n2j                                           |
+| R56       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
+| R57       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
+| R58       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
 | R59       | 330                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/8fn5zr30](https://www.digikey.com/short/8fn5zr30) |
-| R60       | 3.0m                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/1wbrf29w](https://www.digikey.com/short/1wbrf29w) |
-| R61       | 5.1k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qqj3r2v5](https://www.digikey.com/short/qqj3r2v5) |
-| R62       | 5.1k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qqj3r2v5](https://www.digikey.com/short/qqj3r2v5) |
+| R60       | 15m                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/hjvjvz9q](https://www.digikey.com/short/hjvjvz9q) |
+| R61       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
+| R62       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R63       | 30k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/dzn2n9h5](https://www.digikey.com/short/dzn2n9h5) |
-| R64       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R65       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R66       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R67       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| R68       | 100k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/rpz9t4md](https://www.digikey.com/short/rpz9t4md) |
-| RA1       | 330                 | 1206          | Resistor Array                    |                      | [https://www.digikey.com/short/dqprr24j](https://www.digikey.com/short/dqprr24j) |
-| SP1       | Speaker             |               | 8 Ohm Speaker                     | Yes                  | [https://tinyurl.com/yxxmec4w](https://tinyurl.com/yxxmec4w)                     |
-| SW1       | CSS-1310B           |               | Power Switch                      |                      | [https://www.digikey.com/short/0ww37f47](https://www.digikey.com/short/0ww37f47) |
-| SW2       | 1825027-5           |               | SPST-NO                           | Yes                  | [https://www.digikey.com/short/vnc7rtqj](https://www.digikey.com/short/vnc7rtqj) |
-| SW3       | 1825027-5           |               | SPST-NO                           | Yes                  | [https://www.digikey.com/short/vnc7rtqj](https://www.digikey.com/short/vnc7rtqj) |
-| SW4       | SKRRABE010          |               | Tactile Switch x2 (Optional)      |                      | [https://www.digikey.com/short/2cqndb3b](https://www.digikey.com/short/2cqndb3b) |
-| SW5       | SKRRABE010          |               | Tactile Switch x2 (Optional)      |                      | [https://www.digikey.com/short/2cqndb3b](https://www.digikey.com/short/2cqndb3b) |
-| SW6       | SKRRABE010          |               | Tactile Switch x4 (Optional)      |                      | [https://www.digikey.com/short/2cqndb3b](https://www.digikey.com/short/2cqndb3b) |
+| R64       | 200k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/75914mq4](https://www.digikey.com/short/75914mq4) |
+| R65       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R66       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R67       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R68       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R69       | 470                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qw9vn9hr](https://www.digikey.com/short/qw9vn9hr) |
+| RA1       | 330                 | 1206          | Resistor Array                    |                      | https://www.digikey.com/short/m8cr1b0n                                           |
+| SP1       | Speaker             |               | 8 Ohm Speaker                     | Yes                  | https://tinyurl.com/yxxmec4w                                                     |
+| SW1       | CSS-1310B           |               | Power Switch                      |                      | https://www.digikey.com/short/0ww37f47                                           |
+| SW2       | 1825027-5           |               | SPST-NO                           | Yes                  | https://tinyurl.com/36tap2xj                                                     |
+| SW3       | 1825027-5           |               | SPST-NO                           | Yes                  | https://tinyurl.com/36tap2xj                                                     |
+| SW4       | SKRRABE010          |               | Tactile Switch x2 (Optional)      |                      | https://www.digikey.com/short/2cqndb3b                                           |
+| SW5       | SKRRABE010          |               | Tactile Switch x2 (Optional)      |                      | https://www.digikey.com/short/2cqndb3b                                           |
+| SW6       | SKRRABE010          |               | Tactile Switch x4 (Optional)      |                      | https://www.digikey.com/short/2cqndb3b                                           |
 | U1        | AGB-CPU             | QFP-128       | GBA CPU                           | Yes                  | Salvage                                                                          |
 | U2        | AGB-SRAM            | TSOP-48       | GBA SRAM                          | Yes                  | Salvage                                                                          |
-| U3        | TPS3840DL30         | SOT-23        | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
-| U4        | MCP73871-2CAI/ML    | QFN-20        | Li-ion Battery Charger            |                      | [https://www.digikey.com/short/2fq0m95z](https://www.digikey.com/short/2fq0m95z) |
-| U5        | LTC3527             | QFN-16        | Dual Boost Converter              |                      | [https://www.digikey.com/short/nzn081mf](https://www.digikey.com/short/nzn081mf) |
-| U6        | LM4853              | VSSOP-10      | Class AB Audio Amplifier          |                      | [https://www.digikey.com/short/r3rqdzt8](https://www.digikey.com/short/r3rqdzt8) |
-| U7        | TLV9364             | TSSOP-14      | Quad Op-amp                       |                      | [https://www.digikey.com/short/jhr04t1t](https://www.digikey.com/short/jhr04t1t) |
-| U8        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | [https://www.digikey.com/short/vzm4m93z](https://www.digikey.com/short/vzm4m93z) |
-| U9        | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | [https://www.digikey.com/short/w4f9v7ht](https://www.digikey.com/short/w4f9v7ht) |
-| U10       | TPS3840DL30         | SOT-23        | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
-| U11       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | [https://www.digikey.com/short/w4f9v7ht](https://www.digikey.com/short/w4f9v7ht) |
-| U12       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | [https://www.digikey.com/short/w4f9v7ht](https://www.digikey.com/short/w4f9v7ht) |
-| U13       | S-82M1AAA-I6T1U7    | SOT-23-6      | Battery Protection IC             |                      | [https://www.digikey.com/short/330hbh43](https://www.digikey.com/short/330hbh43) |
-| U14       | MIC1553             | SOT-23-5      | 555 Timer                         |                      | [https://www.digikey.com/short/nrrw2pnh](https://www.digikey.com/short/nrrw2pnh) |
-| U15       | SN74LVC1G332        | SOT-23-6      | 3-Input OR Gate                   |                      | [https://www.digikey.com/short/734hmb3p](https://www.digikey.com/short/734hmb3p) |
-| U16       | SN74HC02PWR         | TSSOP-14      | Quad 2-Input NOR Gate             |                      | [https://www.digikey.com/short/t1r20n2n](https://www.digikey.com/short/t1r20n2n) |
-| U17       | TPS3840DL30         | SOT-23        | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
-| VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | [https://www.digikey.com/short/zh4rmq4h](https://www.digikey.com/short/zh4rmq4h) |
-| X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes                  | [https://www.digikey.com/short/5t5j99c2](https://www.digikey.com/short/5t5j99c2) |
+| U3        | TPS3840DL30         | SOT-23-5      | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
+| U4        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
+| U5        | LTC3527             | QFN-16        | Dual Boost Converter              |                      | https://www.digikey.com/short/rrmpprr9                                           |
+| U6        | LM4853              | VSSOP-10      | Class AB Audio Amplifier          |                      | https://www.digikey.com/short/r3rqdzt8                                           |
+| U7        | TLV9364             | TSSOP-14      | Quad Op-amp                       |                      | https://www.digikey.com/short/jhr04t1t                                           |
+| U8        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
+| U9        | SN74LVC2G34DBVR     | SOT-23-6      | Buffer                            |                      | https://www.digikey.com/short/tzhnmjv0                                           |
+| U10       | TPS3840DL30         | SOT-23-5      | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
+| U11       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
+| U12       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
+| U13       | S-82M1A             | SNT-6A        | Battery Protection IC             |                      | [https://www.digikey.com/short/330hbh43](https://www.digikey.com/short/330hbh43) |
+| U14       | MIC1553             | SOT-23-5      | 555 Timer                         |                      | https://www.digikey.com/short/nrrw2pnh                                           |
+| U15       | SN74LVC1G332        | SOT-23-6      | 3-Input OR Gate                   |                      | https://www.digikey.com/short/734hmb3p                                           |
+| U16       | SN74HC02PWR         | TSSOP-14      | Quad 2-Input NOR Gate             |                      | https://www.digikey.com/short/t1r20n2n                                           |
+| U17       | TPS3840DL30         | SOT-23-5      | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
+| U19       | MCP73871-2CAI/ML    | QFN-20        | Battery Charge IC                 |                      | [https://www.digikey.com/short/2fq0m95z](https://www.digikey.com/short/2fq0m95z) |
+| VR1       | 3313J-2-503E        |               | Trim Pot, 50k                     | Yes                  | [https://www.digikey.com/short/p8zptq5h](https://www.digikey.com/short/p8zptq5h) |
+| VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | https://www.digikey.com/short/zh4rmq4h                                           |
+| X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes                  | https://www.digikey.com/short/5t5j99c2                                           |
+| Z57       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Capacitor: https://www.digikey.com/short/h34j0h9q                                |
+| Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Resistor: https://www.digikey.com/short/9q3qp9bv                                 |
+| Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
+| Z71       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Resistor: https://www.digikey.com/short/rpz9t4md                                 |
