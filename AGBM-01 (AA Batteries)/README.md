@@ -193,6 +193,6 @@
 | VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | https://www.digikey.com/short/zh4rmq4h                                           |
 | X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes                  | https://www.digikey.com/short/5t5j99c2                                           |
 | Z57       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Capacitor: https://www.digikey.com/short/h34j0h9q                                |
-| Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Resistor: https://www.digikey.com/short/9q3qp9bv                                 |
+| Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Jumper: https://www.digikey.com/short/9q3qp9bv                                 |
 | Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
 | Z71       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Resistor: https://www.digikey.com/short/rpz9t4md                                 |
