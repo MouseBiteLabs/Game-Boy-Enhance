@@ -5,10 +5,10 @@
 	(uuid "f6557a73-65ee-4d34-af7c-e98efe703e57")
 	(paper "A4")
 	(title_block
-		(title "Game Boy Enhance (AGBM-01)")
+		(title "Game Boy Enhance (AGBM-11)")
 		(date "2026-05-16")
 		(rev "1.2")
-		(company "https://github.com/MouseBiteLabs/Game-Boy-Enhance")
+		(company "https://github.com/MouseBiteLabs/Game-Boy-Enhance/")
 	)
 	(lib_symbols
 		(symbol "Bucketmouse_Nintendo:SJ-3524-SMT"
@@ -3078,16 +3078,6 @@
 		)
 		(uuid "0d80cdb5-afa6-4c0c-a279-4ff8227356c7")
 	)
-	(text "SJ3-35083B-TR"
-		(exclude_from_sim no)
-		(at 273.304 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "1323a845-faff-4a84-a596-e04ca869ea38")
-	)
 	(text "L"
 		(exclude_from_sim no)
 		(at 273.05 97.028 0)
@@ -3097,6 +3087,16 @@
 			)
 		)
 		(uuid "23c3e6e5-0a56-40ee-9730-a2b847ffd0b0")
+	)
+	(text "SJ3-35083B-TR"
+		(exclude_from_sim no)
+		(at 273.304 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4ba649fa-a3ea-4734-bb38-13b075adba9a")
 	)
 	(text "Sallen-Key filters"
 		(exclude_from_sim no)
@@ -3110,7 +3110,7 @@
 	)
 	(text "Shutdown audio if \n5V is disconnected\n(controlled by VCNT5)"
 		(exclude_from_sim no)
-		(at 167.386 48.006 0)
+		(at 167.64 48.006 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3119,10 +3119,10 @@
 		(uuid "c802814d-945f-461d-91d8-803a1bcbfa47")
 	)
 	(junction
-		(at 31.75 64.77)
+		(at 44.45 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "04fb885c-6005-4972-ad08-93ec21c255d9")
+		(uuid "03434c25-f0fe-4d3b-b829-bafd0f726fc5")
 	)
 	(junction
 		(at 104.14 77.47)
@@ -3149,6 +3149,18 @@
 		(uuid "12fb3bfa-835a-453b-be62-a387ee1c3404")
 	)
 	(junction
+		(at 31.75 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c49a8c0-6870-4172-aa5a-198ad7b4e65b")
+	)
+	(junction
+		(at 31.75 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23d0c7ce-ab40-4286-85f5-dc081c7acd58")
+	)
+	(junction
 		(at 190.5 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3161,16 +3173,10 @@
 		(uuid "3425dd4c-7a11-46da-814c-4d66be958949")
 	)
 	(junction
-		(at 31.75 69.85)
+		(at 148.59 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "362b6d49-a8df-4e7f-8f0b-dbaf96f21c0a")
-	)
-	(junction
-		(at 148.59 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3cb898ad-84eb-4fbe-90f3-52f480c64977")
+		(uuid "34e31572-8cd0-410b-875b-6b05706b8020")
 	)
 	(junction
 		(at 104.14 128.27)
@@ -3209,6 +3215,12 @@
 		(uuid "6fd09687-3d3c-4371-854f-bfac4c24455f")
 	)
 	(junction
+		(at 148.59 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71ff10e3-35ef-4ed3-a524-8617bd00ed93")
+	)
+	(junction
 		(at 190.5 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3225,6 +3237,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "82bddf45-9d05-4d82-b726-b184174cc164")
+	)
+	(junction
+		(at 142.24 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8482da39-1d5c-4cfb-acba-893a85da2f26")
 	)
 	(junction
 		(at 80.01 125.73)
@@ -3293,22 +3311,10 @@
 		(uuid "bc5f0ced-afb0-4836-b5e1-c153094b7133")
 	)
 	(junction
-		(at 148.59 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4eccb77-c0f4-40be-8f81-e9e68eb7625d")
-	)
-	(junction
 		(at 66.04 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c598e625-a4ae-42d5-b466-9e8924cb2765")
-	)
-	(junction
-		(at 44.45 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c670da48-35f9-4911-b0ad-d7684278dc0e")
 	)
 	(junction
 		(at 243.84 115.57)
@@ -3321,12 +3327,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7f21c23-c017-40be-937f-dee7df6cd6e4")
-	)
-	(junction
-		(at 142.24 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd9a638a-c125-43b2-bc5f-fa409e1da86e")
 	)
 	(junction
 		(at 229.87 97.79)
@@ -3360,26 +3360,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 92.71) (xy 148.59 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "063ded7a-ebc7-488c-8c28-1026dfed25bb")
-	)
-	(wire
-		(pts
-			(xy 54.61 69.85) (xy 55.88 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06854625-dde3-4f21-a9cd-f6610bef4b4b")
-	)
-	(wire
-		(pts
 			(xy 229.87 74.93) (xy 262.89 74.93)
 		)
 		(stroke
@@ -3400,13 +3380,23 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 45.72) (xy 50.8 46.99)
+			(xy 142.24 77.47) (xy 142.24 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "08eb8273-17b5-4af6-819b-67838fdaa97f")
+		(uuid "07f2da18-a7d3-4613-9736-c2bbe8747e7b")
+	)
+	(wire
+		(pts
+			(xy 54.61 69.85) (xy 55.88 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09a78131-d73d-44ee-a04b-d1f6d51cb950")
 	)
 	(wire
 		(pts
@@ -3520,13 +3510,23 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 64.77) (xy 54.61 64.77)
+			(xy 50.8 45.72) (xy 50.8 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "197200c7-21e8-4839-a631-9325ff2a25af")
+		(uuid "19833c68-ee99-4234-9500-d30aab55cb2b")
+	)
+	(wire
+		(pts
+			(xy 55.88 115.57) (xy 58.42 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a7d461b-1588-4ca1-a7b3-73b8862772ca")
 	)
 	(wire
 		(pts
@@ -3590,16 +3590,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 85.09) (xy 142.24 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2320f05e-bb1c-4ecc-b54b-fa0a4dfb3ad1")
-	)
-	(wire
-		(pts
 			(xy 190.5 107.95) (xy 191.77 107.95)
 		)
 		(stroke
@@ -3650,13 +3640,13 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 69.85) (xy 55.88 115.57)
+			(xy 44.45 78.74) (xy 44.45 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2c5ee86f-efc2-419f-957f-e87763beaf8e")
+		(uuid "2c96555b-d3ef-427e-af7b-14926a90f6a7")
 	)
 	(wire
 		(pts
@@ -3730,6 +3720,26 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 57.15) (xy 190.5 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d51eb3d-486c-49c8-93ce-c7689c372f05")
+	)
+	(wire
+		(pts
+			(xy 54.61 64.77) (xy 58.42 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9ef43b-e27f-41e4-bc61-b177f10d8758")
+	)
+	(wire
+		(pts
 			(xy 251.46 115.57) (xy 251.46 111.76)
 		)
 		(stroke
@@ -3737,16 +3747,6 @@
 			(type default)
 		)
 		(uuid "3e654380-97c2-4020-9d1a-69858d5583a3")
-	)
-	(wire
-		(pts
-			(xy 44.45 45.72) (xy 44.45 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e8bef84-8bcb-4cae-a05d-f566db9becdc")
 	)
 	(wire
 		(pts
@@ -3960,26 +3960,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 45.72) (xy 44.45 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "566c3054-5ba4-40e8-91ac-b11a9ee6dc41")
-	)
-	(wire
-		(pts
-			(xy 50.8 53.34) (xy 50.8 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5876e239-739f-4032-b52e-59f012d780c6")
-	)
-	(wire
-		(pts
 			(xy 137.16 99.06) (xy 139.7 99.06)
 		)
 		(stroke
@@ -4080,6 +4060,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 69.85) (xy 34.29 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6301097b-748d-4567-921c-dc18cd9af56d")
+	)
+	(wire
+		(pts
 			(xy 78.74 72.39) (xy 78.74 74.93)
 		)
 		(stroke
@@ -4087,6 +4077,16 @@
 			(type default)
 		)
 		(uuid "640d6014-6806-489c-ad5d-ae001978fdb5")
+	)
+	(wire
+		(pts
+			(xy 50.8 53.34) (xy 50.8 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6509a74a-8450-4d1f-ba9f-2cafebbc26f5")
 	)
 	(wire
 		(pts
@@ -4110,6 +4110,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 105.41) (xy 148.59 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b465e50-4639-4e33-9ac1-36439c7dd180")
+	)
+	(wire
+		(pts
 			(xy 243.84 102.87) (xy 260.35 102.87)
 		)
 		(stroke
@@ -4127,6 +4137,16 @@
 			(type default)
 		)
 		(uuid "6e453589-0e9b-473a-af9d-74604d1da803")
+	)
+	(wire
+		(pts
+			(xy 147.32 92.71) (xy 148.59 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7058ab27-6154-42d7-bebe-e52641337189")
 	)
 	(wire
 		(pts
@@ -4180,16 +4200,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 64.77) (xy 142.24 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dc0ebde-7b6f-4c65-8244-88507db29070")
-	)
-	(wire
-		(pts
 			(xy 229.87 123.19) (xy 229.87 102.87)
 		)
 		(stroke
@@ -4207,6 +4217,16 @@
 			(type default)
 		)
 		(uuid "7ee201fd-bae2-420c-b538-ce3990eecebd")
+	)
+	(wire
+		(pts
+			(xy 55.88 69.85) (xy 55.88 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80afbcb6-65ac-4726-828c-8978f4311117")
 	)
 	(wire
 		(pts
@@ -4240,16 +4260,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 69.85) (xy 34.29 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81d91599-10f2-4b1d-bc2b-7747f7e7a449")
-	)
-	(wire
-		(pts
 			(xy 229.87 74.93) (xy 229.87 97.79)
 		)
 		(stroke
@@ -4260,13 +4270,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 105.41) (xy 154.94 105.41)
+			(xy 31.75 64.77) (xy 34.29 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "83973719-a20b-4395-acc6-490282ca5e11")
+		(uuid "87a4233b-f64b-4e80-8625-6de7d60ae986")
 	)
 	(wire
 		(pts
@@ -4370,26 +4380,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 57.15) (xy 190.5 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "962caba2-a850-42b4-b6e0-5275a27aab2c")
-	)
-	(wire
-		(pts
-			(xy 142.24 77.47) (xy 142.24 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97836853-b431-4e7d-8078-001cdf2e2770")
-	)
-	(wire
-		(pts
 			(xy 259.08 115.57) (xy 251.46 115.57)
 		)
 		(stroke
@@ -4440,16 +4430,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 115.57) (xy 58.42 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0a8028f-9de6-40db-8588-dda890969f4d")
-	)
-	(wire
-		(pts
 			(xy 116.84 132.08) (xy 116.84 133.35)
 		)
 		(stroke
@@ -4457,6 +4437,16 @@
 			(type default)
 		)
 		(uuid "a66367b9-1729-4cc2-8c17-5391624d638c")
+	)
+	(wire
+		(pts
+			(xy 148.59 92.71) (xy 154.94 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6b89776-2b52-4d7c-809f-fc34df5870dd")
 	)
 	(wire
 		(pts
@@ -4490,6 +4480,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 45.72) (xy 44.45 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad6f5e4e-ceac-4099-a127-5b34f4fe3692")
+	)
+	(wire
+		(pts
 			(xy 80.01 132.08) (xy 80.01 133.35)
 		)
 		(stroke
@@ -4507,16 +4507,6 @@
 			(type default)
 		)
 		(uuid "b2807682-eff6-432f-a2d5-a6e4fc85da87")
-	)
-	(wire
-		(pts
-			(xy 34.29 64.77) (xy 31.75 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5c11182-a1ef-4d2d-9d18-cb847cdf4a41")
 	)
 	(wire
 		(pts
@@ -4550,6 +4540,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 85.09) (xy 142.24 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bda7d78c-ec34-4582-aea5-59a1db63c75c")
+	)
+	(wire
+		(pts
 			(xy 66.04 115.57) (xy 68.58 115.57)
 		)
 		(stroke
@@ -4577,16 +4577,6 @@
 			(type default)
 		)
 		(uuid "c3979a41-3f4a-4f8e-90b8-19da1607d482")
-	)
-	(wire
-		(pts
-			(xy 147.32 105.41) (xy 148.59 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3a373a6-c5cb-49a5-b8e7-0f7d3352ed54")
 	)
 	(wire
 		(pts
@@ -4650,6 +4640,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 64.77) (xy 142.24 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca9cc421-b1f8-4db8-8f1c-af80459269b1")
+	)
+	(wire
+		(pts
 			(xy 113.03 64.77) (xy 116.84 64.77)
 		)
 		(stroke
@@ -4677,6 +4677,16 @@
 			(type default)
 		)
 		(uuid "d0c688c4-0cb6-4208-b132-e164d27e1936")
+	)
+	(wire
+		(pts
+			(xy 148.59 105.41) (xy 154.94 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2315e9c-2bef-4c8b-a25a-80aeb2223f77")
 	)
 	(wire
 		(pts
@@ -4770,16 +4780,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 92.71) (xy 154.94 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7b85b58-f11b-43aa-974d-386b2bd12d7a")
-	)
-	(wire
-		(pts
 			(xy 259.08 105.41) (xy 260.35 105.41)
 		)
 		(stroke
@@ -4850,13 +4850,13 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 78.74) (xy 44.45 77.47)
+			(xy 44.45 45.72) (xy 44.45 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f7ffead9-ecda-4639-a5ae-060a75a1217a")
+		(uuid "f63f3e37-3f1c-491d-ac13-5413d76456fd")
 	)
 	(wire
 		(pts
@@ -4918,6 +4918,16 @@
 		)
 		(uuid "ff118258-4ac0-46bf-9986-a5cbe3fc5cfa")
 	)
+	(label "LIN"
+		(at 149.86 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95590ce4-fd2a-418e-ad31-aefe9c4d95aa")
+	)
 	(label "RIN"
 		(at 149.86 105.41 0)
 		(effects
@@ -4926,7 +4936,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "92a42df0-1d9a-4287-b7d1-150abeec74f1")
+		(uuid "96f6dc41-b8ff-49c9-abb1-1f13aabd06b4")
 	)
 	(label "R-OUT"
 		(at 30.48 69.85 180)
@@ -4947,16 +4957,6 @@
 			(justify right bottom)
 		)
 		(uuid "bb12e6f5-a4a6-4349-8c32-03c602920dac")
-	)
-	(label "LIN"
-		(at 149.86 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d360fc57-6ab7-40d2-8541-8ab2bb31510e")
 	)
 	(hierarchical_label "ROUT"
 		(shape input)
@@ -5036,15 +5036,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 68.58 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
 			(at 68.58 111.76 0)
 			(effects
 				(font
@@ -5160,15 +5151,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 43.18 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/jhr04t1t"
 			(at 43.18 125.73 0)
 			(effects
 				(font
@@ -5296,7 +5278,7 @@
 			(uuid "f99ddfbe-612a-4bf2-8a1d-8b48785734d0")
 		)
 		(instances
-			(project "AGBM_AA_1-1"
+			(project "AGBM_LiPo_1-2"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "TP34")
 					(unit 1)
@@ -5432,15 +5414,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/332b01qh"
-			(at 236.22 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "4ba8d203-6990-4cc4-85cf-594334273daf")
 		)
@@ -5512,15 +5485,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 251.46 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/nwddb5fm"
 			(at 251.46 109.22 0)
 			(effects
 				(font
@@ -5740,15 +5704,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
-			(at 165.1 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fdbf4d5f-3eb2-4e5c-816b-abc65fa7e39b")
 		)
@@ -5820,15 +5775,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 243.84 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/nwddb5fm"
 			(at 243.84 109.22 0)
 			(effects
 				(font
@@ -5916,15 +5862,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/1rfwtcff"
-			(at 116.84 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2088e634-e367-456e-a091-da3764b8cc6d")
 		)
@@ -5995,15 +5932,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 86.36 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/377h8558"
 			(at 86.36 115.57 90)
 			(effects
 				(font
@@ -6094,16 +6022,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 44.45 45.72 0)
+		(lib_id "power:GND")
+		(at 50.8 53.34 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "2f094c1a-7e8c-4919-976d-d100bafbfe85")
-		(property "Reference" "#PWR069"
-			(at 44.45 49.53 0)
+		(uuid "31082552-bf8e-41e6-b9ab-fa0a39fbf059")
+		(property "Reference" "#PWR0145"
+			(at 50.8 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6111,8 +6040,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VAUD"
-			(at 44.45 41.91 0)
+		(property "Value" "AGND"
+			(at 50.8 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6120,7 +6049,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 45.72 0)
+			(at 50.8 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6129,7 +6058,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 45.72 0)
+			(at 50.8 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6137,8 +6066,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 44.45 45.72 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 50.8 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6147,12 +6076,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bd9a231-ea55-4ec1-932b-56c20b621800")
+			(uuid "5663c513-cc8a-410d-82d1-9b89877fe946")
 		)
 		(instances
-			(project "AGBM_AA_1-1"
+			(project "AGBM_LiPo_1-2"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
-					(reference "#PWR069")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -6214,15 +6143,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 116.84 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/5ptw22qq"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -6309,15 +6229,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
-			(at 157.48 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "8de00033-02f4-4620-a152-8ae9f88d7913")
 		)
@@ -6388,15 +6299,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 124.46 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/3p3jj3wt"
 			(at 124.46 115.57 90)
 			(effects
 				(font
@@ -6484,15 +6386,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
-			(at 190.5 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "65dca86e-74fc-481e-ba3d-25d168931985")
 		)
@@ -6563,15 +6456,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 177.8 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/vbm0z4md"
 			(at 177.8 62.23 0)
 			(effects
 				(font
@@ -6661,15 +6545,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/332b01qh"
-			(at 236.22 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "fda4bfa2-e22e-40d7-8c24-9eb5a9fa6cc8")
 		)
@@ -6749,15 +6624,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/38d0p2b4"
-			(at 80.01 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4099f5c1-dcac-4efa-8ac6-f6d2fccfc836")
 		)
@@ -6768,96 +6634,6 @@
 			(project "AGBM_1-0"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Bucketmouse_Nintendo:SN74LVC2G34DBVR")
-		(at 44.45 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4d062568-2619-4166-a0c9-c555a5adc112")
-		(property "Reference" "U9"
-			(at 36.576 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SN74LVC2G34DBVR"
-			(at 23.622 76.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 44.45 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf"
-			(at 44.45 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual schmitt inverter, VCC from 1.65 to 5.5 V, SOT-23"
-			(at 44.45 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/tzhnmjv0"
-			(at 44.45 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "d2400184-7370-4641-b8c9-58e1cb86d3ef")
-		)
-		(pin "2"
-			(uuid "3897ded1-24f3-4d67-841d-c86ef6ee4184")
-		)
-		(pin "3"
-			(uuid "01ccbd6f-f95d-4297-bb33-17a79ebcfda6")
-		)
-		(pin "5"
-			(uuid "dcdc43ff-d7ec-4437-8941-bf16b35233e6")
-		)
-		(pin "1"
-			(uuid "1fa19664-47ba-4dff-9708-c6903db41581")
-		)
-		(pin "4"
-			(uuid "8dd0cf76-4901-47bd-8f8c-0969e6df3d19")
-		)
-		(instances
-			(project ""
-				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
-					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -6919,15 +6695,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 78.74 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/jm5qjr7w"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -7157,15 +6924,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/1rfwtcff"
-			(at 116.84 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6716f09a-298f-436c-82fc-e2470ae1ef62")
 		)
@@ -7237,15 +6995,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 80.01 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/jm5qjr7w"
 			(at 80.01 129.54 0)
 			(effects
 				(font
@@ -7397,15 +7146,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/377h8558"
-			(at 86.36 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "833fccd6-76c5-4276-b6d2-c716fd608690")
 		)
@@ -7416,6 +7156,85 @@
 			(project "AGBM_1-0"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 50.8 49.53 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b7084a9-e76e-45cd-b105-8c565d358881")
+		(property "Reference" "C9"
+			(at 48.768 48.514 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 48.768 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Bucketmouse:C_0603_1608Metric_Boxed_2"
+			(at 50.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 50.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 50.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b7cacb2-0aaa-4027-a877-3c9a54dfabcf")
+		)
+		(pin "2"
+			(uuid "e9909684-f38b-43d2-ab46-f07777895995")
+		)
+		(instances
+			(project "AGBM_LiPo_1-2"
+				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -7511,15 +7330,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 132.08 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/jhr04t1t"
 			(at 132.08 128.27 0)
 			(effects
 				(font
@@ -7642,15 +7452,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
-			(at 157.48 105.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "569260fe-1bc3-4d40-ae09-19d6abac2a65")
 		)
@@ -7730,15 +7531,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/38d0p2b4"
-			(at 78.74 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "aa6c48a8-9e55-4077-b023-4ae8b699505c")
 		)
@@ -7749,6 +7541,72 @@
 			(project "AGBM_1-0"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "R47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 44.45 78.74 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "659a903a-31e9-49cd-8f92-22a9e9be9b13")
+		(property "Reference" "#PWR0144"
+			(at 44.45 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 44.45 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 44.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e658b482-ef41-4f1a-b6b9-3c918d8b529d")
+		)
+		(instances
+			(project "AGBM_LiPo_1-2"
+				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -7809,15 +7667,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 172.72 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/38d0p2b4"
 			(at 172.72 86.36 0)
 			(effects
 				(font
@@ -7931,15 +7780,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 132.08 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/jhr04t1t"
 			(at 132.08 77.47 0)
 			(effects
 				(font
@@ -8128,15 +7968,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/3p3jj3wt"
-			(at 123.19 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6b46ad9e-27b8-4abb-b59f-cbff1ad2f09e")
 		)
@@ -8216,15 +8047,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/qqj3r2v5"
-			(at 110.49 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c35323fb-2491-44ed-88c8-65785dc5dbb4")
 		)
@@ -8296,15 +8118,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 60.96 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
 			(at 60.96 64.77 90)
 			(effects
 				(font
@@ -8458,15 +8271,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
-			(at 34.29 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f67182e0-a44f-4d10-b14d-f7bd88724f17")
 		)
@@ -8549,16 +8353,16 @@
 		)
 	)
 	(symbol
-		(lib_id "OpenGBA:TestPoint")
-		(at 148.59 92.71 0)
+		(lib_id "power:+3.3V")
+		(at 44.45 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7f14ee9e-cb3d-44d2-a51a-71f75c53b83e")
-		(property "Reference" "TP33"
-			(at 148.59 89.408 0)
+		(uuid "7b417f70-c81d-4abb-88e4-dbdc94143a74")
+		(property "Reference" "#PWR0143"
+			(at 44.45 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8566,18 +8370,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "LIN"
-			(at 150.114 91.694 0)
+		(property "Value" "VAUD"
+			(at 44.45 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "Bucketmouse:TestPoint_Pad_D1.0mm_VIA"
-			(at 153.67 92.71 0)
+		(property "Footprint" ""
+			(at 44.45 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8586,7 +8388,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 92.71 0)
+			(at 44.45 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8594,17 +8396,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point (Shortened)"
-			(at 148.59 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 148.59 92.71 0)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 44.45 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8613,12 +8406,93 @@
 			)
 		)
 		(pin "1"
-			(uuid "daf1e864-078f-44b9-81b7-4311c2ea25df")
+			(uuid "0e9de6cd-86e6-418f-b4cf-54cec86bf873")
 		)
 		(instances
-			(project "AGBM_AA_1-1"
+			(project "AGBM_LiPo_1-2"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
-					(reference "TP33")
+					(reference "#PWR0143")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Bucketmouse_Nintendo:SN74LVC2G34DBVR")
+		(at 44.45 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ca3446f-fff3-442d-be80-e9f17b4881ba")
+		(property "Reference" "U9"
+			(at 36.576 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SN74LVC2G34DBVR"
+			(at 23.622 76.454 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+			(at 44.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf"
+			(at 44.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual schmitt inverter, VCC from 1.65 to 5.5 V, SOT-23"
+			(at 44.45 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "8910260c-0f87-4df2-9613-26f6c6391c6c")
+		)
+		(pin "2"
+			(uuid "5e6da89f-eb9b-4e6c-b018-92ecf8061259")
+		)
+		(pin "3"
+			(uuid "9b280b9a-bd89-4239-8aaa-3a78f3f10f37")
+		)
+		(pin "5"
+			(uuid "d3b6ab27-8545-498f-97ef-b267223449f8")
+		)
+		(pin "1"
+			(uuid "8d05ddd4-0b47-455a-89bf-e5fb24458626")
+		)
+		(pin "4"
+			(uuid "126cfec4-6b3d-445c-8a7a-54c0f7a26692")
+		)
+		(instances
+			(project "AGBM_LiPo_1-2"
+				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -8680,15 +8554,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 73.66 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/vn4221jt"
 			(at 73.66 115.57 90)
 			(effects
 				(font
@@ -8778,94 +8643,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 50.8 49.53 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8762f72d-61fd-4a9a-9b90-8641cbf32fba")
-		(property "Reference" "C9"
-			(at 48.768 48.514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1u"
-			(at 48.768 50.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Bucketmouse:C_0603_1608Metric_Boxed_2"
-			(at 50.8 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 50.8 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 50.8 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 50.8 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
-			(at 50.8 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c18a6fb-40d2-4abc-968a-44e1e1a174a9")
-		)
-		(pin "2"
-			(uuid "1a757d7e-e544-44f7-8508-77f1a70afdf3")
-		)
-		(instances
-			(project "AGBM_AA_1-1"
-				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 110.49 64.77 270)
 		(mirror x)
@@ -8921,15 +8698,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 110.49 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/qqj3r2v5"
 			(at 110.49 64.77 90)
 			(effects
 				(font
@@ -9116,15 +8884,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/jhr04t1t"
-			(at 93.98 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "6"
 			(uuid "3acf9dd3-8817-4c41-8b2a-89d11bef44b9")
 		)
@@ -9231,15 +8990,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 267.97 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://tinyurl.com/yxxmec4w"
 			(at 267.97 74.93 0)
 			(effects
 				(font
@@ -9469,15 +9219,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
-			(at 190.5 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3caa5452-4b92-4b58-80db-d65f43c95518")
 		)
@@ -9549,15 +9290,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 238.76 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/332b01qh"
 			(at 238.76 82.55 0)
 			(effects
 				(font
@@ -9645,15 +9377,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/vn4221jt"
-			(at 73.66 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "84751ff2-ca94-4bd2-ae3b-54c10b809df0")
 		)
@@ -9664,72 +9387,6 @@
 			(project "AGBM_1-0"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "R42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 50.8 53.34 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab81b252-9881-48be-a7fe-29081d7feb94")
-		(property "Reference" "#PWR0103"
-			(at 50.8 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "AGND"
-			(at 50.8 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 50.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 50.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "be59cb02-048e-4ad7-a70e-f745feffbf27")
-		)
-		(instances
-			(project "AGBM_AA_1-1"
-				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
-					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -9791,15 +9448,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 66.04 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
 			(at 66.04 74.93 0)
 			(effects
 				(font
@@ -9877,15 +9525,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 144.78 99.06 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/zh4rmq4h"
 			(at 144.78 99.06 90)
 			(effects
 				(font
@@ -9973,15 +9612,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 205.74 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/r3rqdzt8"
 			(at 205.74 100.33 0)
 			(effects
 				(font
@@ -10093,15 +9723,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
-			(at 66.04 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3a8a3f50-f5df-4cfe-a642-5f681c510102")
 		)
@@ -10112,6 +9733,82 @@
 			(project "AGBM_1-0"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "R49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OpenGBA:TestPoint")
+		(at 148.59 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b32bab4e-f489-47b7-a018-8c4813ed1480")
+		(property "Reference" "TP33"
+			(at 148.59 89.408 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "LIN"
+			(at 150.114 91.694 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Bucketmouse:TestPoint_Pad_D1.0mm_VIA"
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point (Shortened)"
+			(at 148.59 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 148.59 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72890540-04dd-4580-96ad-30fc7576e3c4")
+		)
+		(instances
+			(project "AGBM_LiPo_1-2"
+				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
+					(reference "TP33")
 					(unit 1)
 				)
 			)
@@ -10172,15 +9869,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 222.25 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
 			(at 222.25 85.09 0)
 			(effects
 				(font
@@ -10465,15 +10153,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/5ptw22qq"
-			(at 116.84 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f194bf13-cbf7-41dc-8684-a3d7d64a81ee")
 		)
@@ -10545,15 +10224,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 60.96 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
 			(at 60.96 115.57 90)
 			(effects
 				(font
@@ -10740,15 +10410,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/jhr04t1t"
-			(at 93.98 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "6"
 			(uuid "3acf9dd3-8817-4c41-8b2a-89d11bef44b7")
 		)
@@ -10856,15 +10517,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 165.1 105.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
 			(at 165.1 105.41 90)
 			(effects
 				(font
@@ -11018,15 +10670,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/38d0p2b4"
-			(at 172.72 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0254aa04-245d-4461-b769-c6bcd08a2039")
 		)
@@ -11069,7 +10712,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Bucketmouse:CUI_SJ-3524-SMT"
+		(property "Footprint" "Bucketmouse:SJ3-35083B-TR_AND_SJ-3524-SMT"
 			(at 273.05 100.33 0)
 			(effects
 				(font
@@ -11157,6 +10800,16 @@
 				(hide yes)
 			)
 		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SJ-3524-SMT-TR/Same+Sky/view-part/?ref=snap"
+			(at 273.05 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(property "MP" "SJ-3524-SMT-TR"
 			(at 273.05 100.33 0)
 			(effects
@@ -11184,15 +10837,6 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Source" "https://www.digikey.com/short/r4b2bq43"
-			(at 273.05 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -11347,15 +10991,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/2ppmm3vt"
-			(at 181.61 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "99484e1c-b4fa-461a-8b30-77d97d023a20")
 		)
@@ -11500,15 +11135,6 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
-			(at 68.58 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4afa35ea-70e7-4399-afd4-3f7e5308045b")
 		)
@@ -11519,72 +11145,6 @@
 			(project "AGBM_1-0"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
 					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 44.45 78.74 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f77871c9-7a3e-4e1f-913d-3d779547dac0")
-		(property "Reference" "#PWR095"
-			(at 44.45 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "AGND"
-			(at 44.45 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "885e08ce-9d10-4183-b85d-5376713e3bc1")
-		)
-		(instances
-			(project "AGBM_AA_1-1"
-				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25/3442622c-e9bf-4426-b22c-775c701bb1ff/fa121563-15da-403f-af7f-d66a7577d736"
-					(reference "#PWR095")
 					(unit 1)
 				)
 			)
