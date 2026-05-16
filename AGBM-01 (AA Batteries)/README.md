@@ -1,5 +1,23 @@
 # AGBM-01
 
+<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/f59ebdf0-27ae-46fa-bbd5-4aa85c3e9b14" />
+<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/dfc12d3d-7067-4c92-a4c7-5f59b8ac31dd" />
+
+
+## Board Characteristics and Order Information
+
+The zipped folder contains all the gerber files for this board. The following options must be chosen when ordering boards for yourself.
+
+- Thickness: 1.0mm
+- Layers: 4
+- Surface Finish: ENIG
+
+## Assembly and Testing Instructions
+
+## Feature Configurations
+
+## Battery Life Estimation
+
 ## Bill of Materials (BOM)
 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
@@ -196,3 +214,8 @@
 | Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Jumper: https://www.digikey.com/short/9q3qp9bv                                 |
 | Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
 | Z71       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Resistor: https://www.digikey.com/short/rpz9t4md                                 |
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. You are able to copy and redistribute the material in any medium or format, as well as remix, transform, or build upon the material for any purpose (even commercial) - but you **must** give appropriate credit, provide a link to the license, and indicate if any changes were made.
+
+©MouseBiteLabs 2026
