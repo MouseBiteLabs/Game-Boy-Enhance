@@ -14,9 +14,18 @@ Other than that, you might be asking yourself - what separates this from a regul
 - The AGBM has offerings for powering through AA batteries (AGBM-0X models), or native LiPo support (AGBM-1X models)
 - The AGBM includes some user-configurable hotkey features, like a soft reset button combination, or for replacing touch controls on screen kits
 - The AGBM has built-in tactile switch support if you like the SP-style clicky buttons
-- The original locations of button test points have been retained on the AGBM for easy compatibility with existing mods, like Nataliethenerd's ARC GBA or insideGadgets' Embedded Rumble - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Mod-Compatibility">see this page on the Wiki for mod compatibility</a>
+- The original locations of button test points have been retained on the AGBM for easy compatibility with existing mods, like Nataliethenerd's ARC GBA or insideGadgets' ClockxControl - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Mod-Compatibility">see this page on the Wiki for mod compatibility</a>
 
 This project is a labor of love, built on the backs of the greats (noted in the Acknowledgements below). I have made it **fully open source** with all the design files available and even included some <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Schematic-Explanation">technical explanations</a> to spread the love across the retro gaming community.
+
+## Board Variants
+
+Here's a quick table summarizing the differences between the board numbers. Boards that are numbered with 0X use AA batteries, and those with 1X use lithium-ion batteries.
+
+| Board Number | Battery Type | Main Converter |
+| ------------ | ------------ | -------------- |
+| AGBM-CPU-01  | AA           | LTC3527        |
+| AGBM-CPU-11  | Lithium-ion  | LTC3527        |
 
 ## How do I Start?
 
