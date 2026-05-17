@@ -4615,7 +4615,7 @@
 		)
 		(uuid "cf786489-d9c0-4a58-b5dc-785059c4c90a")
 	)
-	(text "Cutoff: 2.2V"
+	(text "Cutoff: 2.3V"
 		(exclude_from_sim no)
 		(at 205.232 44.45 0)
 		(effects
@@ -17734,7 +17734,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "33k"
 			(at 206.756 53.086 0)
 			(effects
 				(font
@@ -19142,7 +19142,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "5.1k"
 			(at 196.596 40.386 0)
 			(effects
 				(font
@@ -19331,7 +19331,7 @@
 			)
 		)
 		(instances
-			(project "AGBM_AA_1-2"
+			(project "AGBM-01_AA_1-2"
 				(path "/cfd0659f-d3b3-4ed9-9d9b-b9f1ae0cdd25"
 					(page "2")
 				)
