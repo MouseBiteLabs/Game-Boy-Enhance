@@ -27,7 +27,16 @@ Here's a quick table summarizing the differences between the board numbers. Boar
 | AGBM-CPU-01  | AA           | LTC3527        |
 | AGBM-CPU-11  | Lithium-ion  | LTC3527        |
 
-## How do I Start?
+## Important Things Before You Start
+
+1) This project requires you remove some components from an original Game Boy Advance. This will require a hot air rework station, or a lot of low melt solder - a hot plate is not recommended because the board is two-sided.
+2) The rest of the project will require extensive soldering capabilities, including leadless packages (QFN) - **do not attempt this project if you do not have sufficient soldering experience.**
+3) **FOLLOW THE GUIDE IN THE WIKI FOR ASSEMBLY AND TESTING.** It is laid out so you can test as you assemble to help you find problems before you're too far into the project. If you ask me why something doesn't work, I'm going to ask what step of the guide you are on.
+4) If you are making a design that uses a lithium ion battery, please understand the risks you are undertaking and read the guide extensively - lithium ion batteries can *explode*, especially if they are no-name brand ones from AliExpress. I personally recommend *against* making the lipo version and sticking with the AA version for safety, versatility, and for longer battery life.
+5) I am not responsible for any damage you do to your self or your property. Attempt this project at your own risk. (See previous note for warning about lithium ion batteries)
+6) I do not guarantee design compatibility. You may encounter issues with certain games. There is also a chance I have made an error in the design or the BOM - if this is the case, I will do everything I can to address the problem as quickly as possible.
+
+## Ok, so how do I start?
 
 <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki">I break down the process of making an AGBM in the wiki - please read it thoroughly and follow all the steps!</a>
 
