@@ -1,3 +1,5 @@
+<img width="3905" height="447" alt="gameboy_enhance" src="https://github.com/user-attachments/assets/824b6be6-7496-42c1-b8b1-e3ef20e5aa76" />
+
 # Game Boy Enhance (AGBM) - Work in Progress
 
 The Game Boy Advance was the very first system I ever purchased with my own money way back in 2002. It has a special place in my heart! Now, after spending so much time doing Game Boy Color projects over the past few years, I decided to get to work on the GBA to see what I could do with it to modernize and improve it a bit. Luckily, I was able to complete this by the 25th anniversary of the GBA's release in North America to celebrate!
