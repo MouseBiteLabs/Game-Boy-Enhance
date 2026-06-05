@@ -2249,8 +2249,8 @@
 				)
 			)
 		)
-		(property "Value" "BATT"
-			(at 0 -2.6 90)
+		(property "Value" "VAUD"
+			(at 0 -2.95 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "dd047854-0a88-4c68-a3ac-d558dfb24e16")
@@ -37073,7 +37073,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R33"
-			(at -1.9 -2.4 0)
+			(at -2.2 -2.4 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "f1d6d647-fec1-4c00-a495-2a68a251bb83")
@@ -37686,6 +37686,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/SM02B-SRSS-TB-LF--SN---3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 1 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -43090,6 +43101,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Bucketmouse:C_0603_1608Metric_Boxed_2"
 		(layer "B.Cu")
@@ -48235,6 +48257,17 @@
 			(uuid "cc045418-0347-4445-8026-a29cb3938611")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/CSS-1310TB.step"
+			(offset
+				(xyz 0.6 -1.2 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Bucketmouse:C_0603_1608Metric_Boxed_2"
 		(layer "B.Cu")
@@ -51782,12 +51815,12 @@
 			(uuid "ec174d9d-0081-4934-a4a6-321118433a0b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Battery.3dshapes/Battery_CR1225.step"
+		(model "${KICAD9_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Unnamed-SOLID.step"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1.1 1.1 1)
+				(xyz 1 1 1)
 			)
 			(rotate
 				(xyz -0 -0 -0)
@@ -66589,6 +66622,17 @@
 			(uuid "1823bd99-d656-46b4-8f2c-2f5edf788fe3")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_Audio.3dshapes/Same_Sky_SJ3-35083B-TR.step"
+			(offset
+				(xyz 11 0 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 180 -90)
+			)
+		)
 	)
 	(footprint "Bucketmouse:R_0603_1608Metric_Boxed"
 		(layer "B.Cu")
@@ -70157,8 +70201,8 @@
 		(uuid "5b3bc55c-058a-4dd5-8641-dfb8abe4a620")
 	)
 	(gr_circle
-		(center 125.7 -20)
-		(end 125.7 -20.125)
+		(center 125.1 -19.4)
+		(end 125.1 -19.525)
 		(stroke
 			(width 0.2)
 			(type default)
