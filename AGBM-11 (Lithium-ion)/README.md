@@ -111,7 +111,7 @@
 | Q10       | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
 | R1        | 1.5M                | 0603          | Resistor                          |                      | https://www.digikey.com/short/pd49zr2b                                           |
 | R2        | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
-| R3        | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
+| R3        | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/w0t24jpv                                           |
 | R4        | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R5        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R6        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
@@ -171,7 +171,7 @@
 | R60       | 15m                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/hjvjvz9q](https://www.digikey.com/short/hjvjvz9q) |
 | R61       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R62       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
-| R63       | 30k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/dzn2n9h5](https://www.digikey.com/short/dzn2n9h5) |
+| R63       | 15k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/b4mcvwnd](https://www.digikey.com/short/b4mcvwnd) |
 | R64       | 200k                | 0603          | Resistor                          |                      | [https://www.digikey.com/short/75914mq4](https://www.digikey.com/short/75914mq4) |
 | R65       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R66       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
