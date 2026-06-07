@@ -5925,7 +5925,7 @@
 		)
 		(uuid "19578bf9-eae4-43a9-a00b-213e2c86756c")
 	)
-	(text "Cutoff: 3.1V"
+	(text "Cutoff: 3.2V"
 		(exclude_from_sim no)
 		(at 205.232 91.44 0)
 		(effects
@@ -6117,7 +6117,7 @@
 		)
 		(uuid "cec7c459-0883-4d35-aca0-78018f56d27f")
 	)
-	(text "Cutoff: 3.15V"
+	(text "Cutoff: 3.5V"
 		(exclude_from_sim no)
 		(at 205.232 49.53 0)
 		(effects
@@ -20439,7 +20439,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30k"
+		(property "Value" "15k"
 			(at 206.756 98.806 0)
 			(effects
 				(font
@@ -22423,7 +22423,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "3.3k"
 			(at 196.596 45.466 0)
 			(effects
 				(font
