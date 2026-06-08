@@ -8,11 +8,11 @@ The Game Boy Advance was the very first system I ever purchased with my own mone
 
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/efcdfb47-093b-4c6f-9c5e-1ee475ac6f77" />
 
-There's not a *ton* that needs to be "fixed" with modded GBAs - you can get away with a pretty great modern system by simply throwing in a screen kit on an original console. But as you probably well know, there are a *ton* of really damaged and crusty systems out there that are doomed for landfills (or for the closets of sickos like me). So at least for that reason, this fully open source GBA recreation only requires the original CPU and RAM - every single other part is **brand new** or has easily-sourced replacements available.
+There's not a whole lot that needs to be "fixed" with modded GBAs - you can get away with a pretty great modern system by simply throwing in a screen kit on an original console. But as you probably well know, there are a *ton* of really damaged and crusty systems out there that are doomed for landfills (or for the closets of sickos like me). So at least for that reason, this fully open source GBA recreation only requires the original CPU and RAM - every single other part is **brand new** or has easily-sourced replacements available.
 
 Other than that, you might be asking yourself - what separates this from a regular modded system, or one of those fancy Funnyplaying GBA boards? Well, here's a quick run-down:
 - The audio on the AGBM is crystal clear, not dependent on whatever screen kit is being used, and has **stereo** output on the headphone jack (unlike the FP GBA) - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Audio-Recordings">listen to the audio samples in the Wiki</a>
-- Ignoring the screen kit, the AGBM draws ~56% less power than the FP GBA (with the fancy LEDs off) - this equates to roughly 45 minutes **more** playtime at max volume/brightness - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Battery-Curves">check out the battery curves page in the Wiki</a>
+- Ignoring the screen kit, the AGBM draws ~56% less power than the FP GBA (with the fancy LEDs off) - this equates to roughly 45 minutes **more** playtime at max volume/brightness - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves">check out the battery curves page in the Wiki</a>
 - The AGBM has offerings for powering through AA batteries (AGBM-0X models), or native LiPo support (AGBM-1X models)
 - The AGBM includes some user-configurable hotkey features, like a soft reset button combination, or for replacing touch controls on screen kits
 - The AGBM has built-in tactile switch support if you like the SP-style clicky buttons
@@ -26,8 +26,10 @@ Here's a quick table summarizing the differences between the board numbers. Boar
 
 | Board Number | Battery Type | Main Converter |
 | ------------ | ------------ | -------------- |
-| AGBM-CPU-01  | AA           | LTC3527        |
-| AGBM-CPU-11  | Lithium-ion  | LTC3527        |
+| [AGBM-CPU-01](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-01%20(AA%20Batteries))  | AA           | LTC3527        | 
+| AGBM-CPU-02  | AA           | TPS63802       |
+| [AGBM-CPU-11](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-11%20(Lithium-ion))  | Lithium-ion  | LTC3527        |
+| AGBM-CPU-12  | Lithium-ion  | TPS63802       |
 
 ## Important Things Before You Start
 
