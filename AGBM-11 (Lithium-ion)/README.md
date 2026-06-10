@@ -66,7 +66,6 @@
 | C62       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
 | C63       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
 | C64       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
-| C65       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C66       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C68       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C69       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
@@ -102,7 +101,6 @@
 | Q1        | 2N3904              | SOT-23        | NPN BJT                           |                      | https://www.digikey.com/short/5j230h4f                                           |
 | Q2        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
 | Q3        | 2N3906              | SOT-23        | PNP BJT                           |                      | https://www.digikey.com/short/hhdhqzd8                                           |
-| Q4        | NTGD3148            | SOT-23-6      | N-Channel FETs                    |                      | [https://www.digikey.com/short/v9w8j9zb](https://www.digikey.com/short/v9w8j9zb) |
 | Q5        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
 | Q6        | 2N7002              | SOT-23        | N-Channel MOSFET                  |                      | https://www.digikey.com/short/vbm0z4md                                           |
 | Q7        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
@@ -111,7 +109,7 @@
 | Q10       | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
 | R1        | 1.5M                | 0603          | Resistor                          |                      | https://www.digikey.com/short/pd49zr2b                                           |
 | R2        | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
-| R3        | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/w0t24jpv                                           |
+| R3        | 2.49k               | 0603          | Resistor                          |                      | [https://www.digikey.com/short/crrrfpbn](https://www.digikey.com/short/crrrfpbn) |
 | R4        | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R5        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R6        | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
@@ -166,9 +164,7 @@
 | R55       | 1M                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/pwjt9n2j                                           |
 | R56       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R57       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
-| R58       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
-| R59       | 330                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/8fn5zr30](https://www.digikey.com/short/8fn5zr30) |
-| R60       | 15m                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/hjvjvz9q](https://www.digikey.com/short/hjvjvz9q) |
+| R58       | 470                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qw9vn9hr](https://www.digikey.com/short/qw9vn9hr) |
 | R61       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R62       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R63       | 15k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/b4mcvwnd](https://www.digikey.com/short/b4mcvwnd) |
@@ -177,7 +173,6 @@
 | R66       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R67       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R68       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
-| R69       | 470                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qw9vn9hr](https://www.digikey.com/short/qw9vn9hr) |
 | RA1       | 330                 | 1206          | Resistor Array                    |                      | https://www.digikey.com/short/m8cr1b0n                                           |
 | SP1       | Speaker             |               | 8 Ohm Speaker                     | Yes                  | https://tinyurl.com/yxxmec4w                                                     |
 | SW1       | CSS-1310B           |               | Power Switch                      |                      | https://www.digikey.com/short/0ww37f47                                           |
@@ -188,21 +183,20 @@
 | SW6       | SKRRABE010          |               | Tactile Switch x4 (Optional)      |                      | https://www.digikey.com/short/2cqndb3b                                           |
 | U1        | AGB-CPU             | QFP-128       | GBA CPU                           | Yes                  | Salvage                                                                          |
 | U2        | AGB-SRAM            | TSOP-48       | GBA SRAM                          | Yes                  | Salvage                                                                          |
-| U3        | TPS3840DL30         | SOT-23-5      | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
+| U3        | TPS3840DL31         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/97pvp234                                           |
 | U4        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
 | U5        | LTC3527             | QFN-16        | Dual Boost Converter              |                      | https://www.digikey.com/short/rrmpprr9                                           |
 | U6        | LM4853              | VSSOP-10      | Class AB Audio Amplifier          |                      | https://www.digikey.com/short/r3rqdzt8                                           |
 | U7        | TLV9364             | TSSOP-14      | Quad Op-amp                       |                      | https://www.digikey.com/short/jhr04t1t                                           |
 | U8        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
 | U9        | SN74LVC2G34DBVR     | SOT-23-6      | Buffer                            |                      | https://www.digikey.com/short/tzhnmjv0                                           |
-| U10       | TPS3840DL30         | SOT-23-5      | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
+| U10       | TPS3840DL31         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/97pvp234                                           |
 | U11       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
 | U12       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
-| U13       | S-82M1A             | SNT-6A        | Battery Protection IC             |                      | [https://www.digikey.com/short/330hbh43](https://www.digikey.com/short/330hbh43) |
 | U14       | MIC1553             | SOT-23-5      | 555 Timer                         |                      | https://www.digikey.com/short/nrrw2pnh                                           |
 | U15       | SN74LVC1G332        | SOT-23-6      | 3-Input OR Gate                   |                      | https://www.digikey.com/short/734hmb3p                                           |
 | U16       | SN74HC02PWR         | TSSOP-14      | Quad 2-Input NOR Gate             |                      | https://www.digikey.com/short/t1r20n2n                                           |
-| U17       | TPS3840DL30         | SOT-23-5      | Voltage Supervisor                |                      | [https://www.digikey.com/short/h5mr04ft](https://www.digikey.com/short/h5mr04ft) |
+| U17       | TPS3840DL31         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/97pvp234                                           |
 | U19       | MCP73871-2CAI/ML    | QFN-20        | Battery Charge IC                 |                      | [https://www.digikey.com/short/2fq0m95z](https://www.digikey.com/short/2fq0m95z) |
 | VR1       | 3313J-2-503E        |               | Trim Pot, 50k                     | Yes                  | [https://www.digikey.com/short/p8zptq5h](https://www.digikey.com/short/p8zptq5h) |
 | VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | https://www.digikey.com/short/zh4rmq4h                                           |
