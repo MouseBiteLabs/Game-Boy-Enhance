@@ -194,7 +194,7 @@ The zipped folder contains all the gerber files for this board. The following op
 | U2        | AGB-SRAM            | TSOP-48       | GBA SRAM                          | Yes                  | Salvage                                                                          |
 | U3        | TPS3840DL20         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/pq9b8pqv                                           |
 | U4        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
-| U5        | LTC3527             | QFN-16        | Dual Boost Converter              |                      | https://www.digikey.com/short/rrmpprr9                                           |
+| U5        | LTC3527             | QFN-16        | Dual Boost Converter              |                      | SEE NOTE!                                                                        |
 | U6        | LM4853              | VSSOP-10      | Class AB Audio Amplifier          |                      | https://www.digikey.com/short/r3rqdzt8                                           |
 | U7        | TLV9364             | TSSOP-14      | Quad Op-amp                       |                      | https://www.digikey.com/short/jhr04t1t                                           |
 | U8        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
@@ -214,6 +214,18 @@ The zipped folder contains all the gerber files for this board. The following op
 | Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Jumper: https://www.digikey.com/short/9q3qp9bv                                 |
 | Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
 | Z71       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Resistor: https://www.digikey.com/short/rpz9t4md                                 |
+
+### Note about LTC3527
+
+This part has been going in and out of stock at various places for the past few months. It may be annoying to track down. The good news is, you can also use the LTC3527-1. Here are a few links to try out to find stock:
+
+- [Digikey](https://www.digikey.com/en/products/filter/voltage-regulators-dc-dc-switching-regulators/739?s=N4IgTCBcDaIDYBcDGBmArGA7CAugXyA)
+
+- [Mouser](https://www.mouser.com/c/semiconductors/integrated-circuits-ics/power-management-ics/voltage-regulators-voltage-controllers/switching-voltage-regulators/?q=ltc3527)
+
+- [Octopart](https://octopart.com/search?autosugg_idx=test&currency=USD&specs=0&full_query=ltc3527+&q=ltc3527&nq=ltc3527&s=1&inferred_category_id=4305&inference=1) lists a lot of different distributors and their stock levels
+
+As a last resort, AliExpress seems to have a decent bit of them. (Order at your own risk!)
 
 ## Revision History
 
