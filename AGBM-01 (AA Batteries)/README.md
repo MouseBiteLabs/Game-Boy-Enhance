@@ -1,5 +1,7 @@
 # AGBM-01
 
+[**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
+
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/f59ebdf0-27ae-46fa-bbd5-4aa85c3e9b14" />
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/dfc12d3d-7067-4c92-a4c7-5f59b8ac31dd" />
 
