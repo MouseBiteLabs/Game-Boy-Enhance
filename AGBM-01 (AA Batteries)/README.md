@@ -13,7 +13,19 @@ The zipped folder contains all the gerber files for this board. The following op
 
 ## Assembly and Testing Instructions
 
+[View the wiki for more information!](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/AGBM-01-%28AA%29-Build-Test-Order)
+
 ## Battery Life Estimation
+
+In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 hours to 15 hours - this is heavily dependent on the type of screen kit you select.
+
+| Screen Kit     | Max Time | Min Time |
+| -------------- | -------- | -------- |
+| FP IPS Max     | 10h15m   | 6h       |
+| FP ITA         | 15h30m   | 8h       |
+| Hispeedido IPS | 11h      | 5h20m    |
+
+[View this wiki page for more information.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves#agbm-01)
 
 ## Bill of Materials (BOM)
 
