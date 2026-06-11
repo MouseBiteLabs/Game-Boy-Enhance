@@ -9,7 +9,7 @@ The zipped folder contains all the gerber files for this board. The following op
 
 - Thickness: 1.0mm
 - Layers: 4
-- Surface Finish: ENIG
+- Surface Finish: ENIG (HASL is acceptable **ONLY IF** you are using tactile switches for the buttons)
 
 **I sell this blank circuit board on Etsy, so you don't have to buy a bunch of multiples if you don't want to.** (Click the banner!)
 
