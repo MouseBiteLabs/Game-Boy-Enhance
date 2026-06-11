@@ -46,7 +46,7 @@ Here's a quick table summarizing the differences between the board numbers. Boar
 
 ## Ok, so how do I start?
 
-<a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki">I break down the process of making an AGBM in the wiki - please read it thoroughly and follow all the steps!</a>
+**<a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki">I break down the process of making an AGBM in the wiki - please read it thoroughly and follow all the steps!</a>**
 
 Enjoy :)
 
