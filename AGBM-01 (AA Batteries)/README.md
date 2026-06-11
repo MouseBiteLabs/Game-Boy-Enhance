@@ -3,7 +3,6 @@
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/f59ebdf0-27ae-46fa-bbd5-4aa85c3e9b14" />
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/dfc12d3d-7067-4c92-a4c7-5f59b8ac31dd" />
 
-
 ## Board Characteristics and Order Information
 
 The zipped folder contains all the gerber files for this board. The following options must be chosen when ordering boards for yourself.
@@ -13,8 +12,6 @@ The zipped folder contains all the gerber files for this board. The following op
 - Surface Finish: ENIG
 
 ## Assembly and Testing Instructions
-
-## Feature Configurations
 
 ## Battery Life Estimation
 
