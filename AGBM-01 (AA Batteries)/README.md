@@ -2,9 +2,7 @@
 
 [**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
 
-<img width="2196" height="1550" alt="agbm01" src="https://github.com/user-attachments/assets/cd1ec00f-802e-4a83-ad6c-58278f2c8c47" />
-
-<img width="2196" height="1550" alt="agbm01back" src="https://github.com/user-attachments/assets/a2cccbf8-28f4-434d-a38b-337207fddee1" />
+![image](https://github.com/user-attachments/assets/b0fe374a-1440-4da7-b222-eeb61d39a156)
 
 ## Board Characteristics and Order Information
 
