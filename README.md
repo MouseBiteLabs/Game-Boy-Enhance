@@ -22,6 +22,8 @@ Other than that, you might be asking yourself - what separates this from a regul
 
 This project is a labor of love, built on the backs of the greats (noted in the Acknowledgements below). I have made it **fully open source** with all the design files available and even included some <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Schematic-Explanation">technical explanations</a> to spread the love across the retro gaming community.
 
+**If you find any errors or inconsistencies in this repository, let me know and you'll receive one (1) internet point.**
+
 ## Board Variants
 
 Here's a quick table summarizing the differences between the board numbers. Boards that are numbered with 0X use AA batteries, and those with 1X use lithium-ion batteries.
