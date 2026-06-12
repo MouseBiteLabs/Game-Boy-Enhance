@@ -41,7 +41,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
 | BT1       |                     |               | AA Battery Terminals              | Yes                  | [https://tinyurl.com/yrnsncnj](https://tinyurl.com/yrnsncnj)                     |
-| C1        | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
+| C1        | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/cfmmbvdh                                           |
 | C2        | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C3        | 27p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3dr3j004                                           |
 | C4        | 33p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q8jbrfqj                                           |
@@ -61,7 +61,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C18       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
 | C19       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
 | C20       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
-| C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3mhhrd2f                                           |
+| C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/cfmmbvdh                                           |
 | C22       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C23       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C24       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/377h8558                                           |
@@ -82,7 +82,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C39       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C40       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q58vhz49                                           |
 | C41       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q58vhz49                                           |
-| C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3mhhrd2f                                           |
+| C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/cfmmbvdh                                           |
 | C43       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C44       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C45       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
