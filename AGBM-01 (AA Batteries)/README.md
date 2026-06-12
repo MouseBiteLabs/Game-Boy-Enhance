@@ -218,13 +218,13 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | U8        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
 | U9        | SN74LVC2G34DBVR     | SOT-23-6      | Buffer                            |                      | https://www.digikey.com/short/tzhnmjv0                                           |
 | U10       | TPS3840DL20         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/pq9b8pqv                                           |
-| U11       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
-| U12       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
+| U11       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/b880z8t8                                           |
+| U12       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/b880z8t8                                           |
 | U14       | MIC1553             | SOT-23-5      | 555 Timer                         |                      | https://www.digikey.com/short/nrrw2pnh                                           |
 | U15       | SN74LVC1G332        | SOT-23-6      | 3-Input OR Gate                   |                      | https://www.digikey.com/short/734hmb3p                                           |
 | U16       | SN74HC02PWR         | TSSOP-14      | Quad 2-Input NOR Gate             |                      | https://www.digikey.com/short/t1r20n2n                                           |
 | U17       | TPS3840DL20         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/pq9b8pqv                                           |
-| U18       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/w4f9v7ht                                           |
+| U18       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/b880z8t8                                           |
 | VR1       | 3313J-2-503E        |               | Trim Pot, 50k                     | Yes                  | [https://www.digikey.com/short/p8zptq5h](https://www.digikey.com/short/p8zptq5h) |
 | VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | https://www.digikey.com/short/zh4rmq4h                                           |
 | X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes                  | https://www.digikey.com/short/5t5j99c2                                           |
