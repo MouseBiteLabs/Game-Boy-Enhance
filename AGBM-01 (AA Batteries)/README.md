@@ -173,8 +173,8 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R35       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R36       | 270                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/85p4bp5h                                           |
 | R37       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
-| R38       | 47                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/2trwn31h                                           |
-| R39       | 47                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/2trwn31h                                           |
+| R38       | 47                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/qb81zfh9                                           |
+| R39       | 47                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/qb81zfh9                                           |
 | R40       | 15                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/d1537pn3                                           |
 | R41       | 2.2k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/89v4f1wn                                           |
 | R42       | 7.5k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/vn4221jt                                           |
