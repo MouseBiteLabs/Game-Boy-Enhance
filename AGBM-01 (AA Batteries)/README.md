@@ -38,6 +38,8 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 
 ## Bill of Materials (BOM)
 
+**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/tdfpt2h0)**
+
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
 | BT1       |                     |               | AA Battery Terminals              | Yes                  | [https://tinyurl.com/yrnsncnj](https://tinyurl.com/yrnsncnj)                     |
