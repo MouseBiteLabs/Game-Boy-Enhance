@@ -14,7 +14,9 @@ There's not a whole lot that needs to be "fixed" with modded GBAs - you can get 
 
 Other than that, you might be asking yourself - what separates this from a regular modded system, or one of those fancy Funnyplaying GBA boards? Well, here's a quick run-down:
 - The audio on the AGBM is crystal clear, not dependent on whatever screen kit is being used, and has **stereo** output on the headphone jack (unlike the FP GBA) - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Audio-Recordings">listen to the audio samples in the Wiki</a>
-- Ignoring the screen kit, the AGBM draws ~56% less power than the FP GBA (with the fancy LEDs off) - this equates to roughly 45 minutes **more** playtime at max volume/brightness - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves">check out the battery curves page in the Wiki</a>
+- The AGBM draws ~150mW less than the FP GBA (even with the fancy LEDs off) - this equates to anywhere between 1 to 4 hours **more** playtime depending on the power draw based on your settings (like brightness level) - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves">check out the battery curves page in the Wiki</a>
+- The AGBM is *also* more efficient than using an original GBA board with a screen kit installed, getting you more playtime than a regular modded build (again, see the Wiki for more info)
+- Other than the CPU and RAM, the AGBM uses **all brand-new components** - even the power switch and audio jacks
 - The AGBM has offerings for powering through AA batteries (AGBM-0X models), or native LiPo support (AGBM-1X models)
 - The AGBM includes some user-configurable hotkey features, like a soft reset button combination, or for replacing touch controls on screen kits
 - The AGBM has built-in tactile switch support if you like the SP-style clicky buttons
