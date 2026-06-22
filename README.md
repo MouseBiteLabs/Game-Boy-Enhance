@@ -58,6 +58,8 @@ Enjoy :)
 - Thanks to the awesome members of [my discord](https://discord.gg/Y5aDvCcpbX) and the <a href="https://moddedgameboy.club/">Modded Gameboy Club</a> for their feedback and support during the project development. (Special shoutout to White for the suggestion of the name "Game Boy Enhance.")
 - Thank you Redherring32 for starting the [OpenGBA](https://github.com/Redherring32/OpenTendo-AGB) project and allowing me to finish it up. He measured out the board and placed the ports and saved me a *ton* of time.
 - Special thanks to lidnariq from gbdev for helping me realize the best possible audio quality out of this thing.
+- Thank you to Riggles and White from the r/Gameboy discord server for their shell polishing tips!
+- Thanks Badwen from discord for supplying me a Funnyplaying GBA for comparison purposes.
 - Thanks Zekfoo for providing inspiration with his [AGZ](https://github.com/Zekfoo/AGZ/tree/main) project (specifically giving me a great idea of where to put the USB-C and JST connector for the LiPo version).
 
 ## License
