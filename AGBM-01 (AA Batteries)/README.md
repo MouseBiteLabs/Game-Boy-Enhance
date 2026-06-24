@@ -203,7 +203,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R67       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R68       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | RA1       | 330                 | 1206          | Resistor Array                    |                      | https://www.digikey.com/short/m8cr1b0n                                           |
-| SP1       | Speaker             |               | 8 Ohm Speaker                     | Yes                  | https://tinyurl.com/yxxmec4w                                                     |
+| SP1       | Speaker             |               | 8 Ohm Speaker                     | Yes                  | SEE NOTE!                                                                        |
 | SW1       | CSS-1310B           |               | Power Switch                      |                      | https://www.digikey.com/short/0ww37f47                                           |
 | SW2       | 1825027-5           |               | SPST-NO                           | Yes                  | https://tinyurl.com/36tap2xj                                                     |
 | SW3       | 1825027-5           |               | SPST-NO                           | Yes                  | https://tinyurl.com/36tap2xj                                                     |
@@ -246,6 +246,10 @@ This part has been going in and out of stock at various places for the past few 
 - [Octopart](https://octopart.com/search?autosugg_idx=test&currency=USD&specs=0&full_query=ltc3527+&q=ltc3527&nq=ltc3527&s=1&inferred_category_id=4305&inference=1) lists a lot of different distributors and their stock levels
 
 As a last resort, AliExpress seems to have a decent bit of them. (Order at your own risk!)
+
+### Speaker Options
+
+Usually people order speakers from Game Boy aftermarket parts sellers, [like this](https://tinyurl.com/yxxmec4w). But, if you would rather get a speaker from Digikey, there is one that fits perfectly in the system: [CMS-2207-18SP](https://www.digikey.com/short/1q4nr8tm).
 
 ## Revision History
 
