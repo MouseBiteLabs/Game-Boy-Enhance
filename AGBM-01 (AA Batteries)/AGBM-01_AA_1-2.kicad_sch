@@ -16223,7 +16223,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "200k"
 			(at 271.272 88.646 0)
 			(effects
 				(font
@@ -16268,7 +16268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/rpz9t4md"
+		(property "Source" "https://www.digikey.com/short/3391593q"
 			(at 273.05 87.63 0)
 			(effects
 				(font
@@ -17779,7 +17779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/t130htj0"
+		(property "Source" "https://www.digikey.com/short/t0dpzzp1"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -19187,7 +19187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/short/nwddb5fm"
+		(property "Source" "https://www.digikey.com/short/qqj3r2v5"
 			(at 198.12 39.37 0)
 			(effects
 				(font
