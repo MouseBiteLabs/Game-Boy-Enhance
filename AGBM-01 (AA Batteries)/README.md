@@ -38,7 +38,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 
 ## Bill of Materials (BOM)
 
-**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/tdfpt2h0)**
+**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/m02hd371)**
 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
@@ -197,7 +197,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R57       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R58       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R63       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
-| R64       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
+| R64       | 200k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/3391593q                                           |
 | R65       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R66       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R67       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
