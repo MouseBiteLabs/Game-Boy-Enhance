@@ -2,7 +2,10 @@
 
 [**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
 
-[image]
+<img width="4080" height="3072" alt="image" src="https://github.com/user-attachments/assets/cbc3d955-231f-4109-95c1-8ccbb3809a26" />
+
+<img width="4080" height="3072" alt="image" src="https://github.com/user-attachments/assets/de2dd395-6a55-42f8-8aa2-9a2cecfa1171" />
+
 
 ## Board Characteristics and Order Information
 
@@ -20,13 +23,17 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 <a href="https://www.pcbway.com/"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
+## Shell Cutting Requirements
+
+This board requires heavy modification of the GBA shell in order to fit the USB-C charge port and the lithium-ion battery. [Please view the shell cut guide before beginning the project.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Shell-Cuts-%28for-LiPo%29)
+
 ## Assembly and Testing Instructions
 
 [View the wiki for more information!](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/AGBM-11-%28LiPo%29-Build-Test-Order)
 
 ## Battery Life Estimation
 
-In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 hours to 15 hours - this is heavily dependent on the type of screen kit you select.
+In short, when using the linked Jauch lithium-ion battery, you can expect anywhere from 5 hours to 13 and a half hours - this is heavily dependent on the type of screen kit you select and the brightness.
 
 | Screen Kit     | Max Time | Min Time |
 | -------------- | -------- | -------- |
@@ -124,7 +131,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | EM3       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | https://www.digikey.com/short/c329ffdd                                           |
 | EM7       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | https://www.digikey.com/short/c329ffdd                                           |
 | F1        | F0805B2R00FSTR      | 0805          | Fuse, 2A                          |                      | https://www.digikey.com/short/98cdp3tv                                           |
-| F1        | F0805B2R00FSTR      | 0805          | Fuse, 2A                          |                      | https://www.digikey.com/short/98cdp3tv                                           |
+| F2        | F0805B2R00FSTR      | 0805          | Fuse, 2A                          |                      | https://www.digikey.com/short/98cdp3tv                                           |
 | J1        | JST-SH              | 1mm Spacing   | JST SH Connector                  |                      | [https://www.digikey.com/short/j8rp8493](https://www.digikey.com/short/j8rp8493) |
 | L1        | 4.7uH               | 1212          | Inductor (LSXND3030QKT4R7MNG)     |                      | https://www.digikey.com/short/m9hwf8cw                                           |
 | L2        | 4.7uH               | 1212          | Inductor (LSXND3030QKT4R7MNG)     |                      | https://www.digikey.com/short/m9hwf8cw                                           |
@@ -169,7 +176,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R24       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R25       | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/w0t24jpv                                           |
 | R26       | 33k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t0dpzzp1                                           |
-| R27       | 10k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t130htj0                                           |
+| R27       | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/w0t24jpv                                           |
 | R28       | 2.49k               | 0603          | Resistor                          |                      | [https://www.digikey.com/short/crrrfpbn](https://www.digikey.com/short/crrrfpbn) |
 | R29       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
 | R30       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
