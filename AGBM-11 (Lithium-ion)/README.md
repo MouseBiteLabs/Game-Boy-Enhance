@@ -1,5 +1,41 @@
 # AGBM-11 (Coming Soon)
 
+[**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
+
+[image]
+
+## Board Characteristics and Order Information
+
+The zipped folder contains all the gerber files for this board. The following options must be chosen when ordering boards for yourself.
+
+- Thickness: 1.0mm
+- Layers: 4
+- Surface Finish: ENIG (HASL is acceptable **ONLY IF** you are using tactile switches for the buttons)
+
+**I sell this blank circuit board on Etsy, so you don't have to buy a bunch of multiples if you don't want to.** (Click the banner!)
+
+<a href="https://mousebitelabs.etsy.com/listing/4520511265"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97127539/239718536-5c9aefe3-0628-4434-b8d8-55ff80ac3bbc.png" alt="PCB from Etsy" /></a> 
+
+You can use the zipped folder at any board fabricator you like. You may also buy the board from PCBWay using this link (disclosure: I receive 10% of the sale value to go towards future PCB orders of my own):
+
+<a href="https://www.pcbway.com/"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
+## Assembly and Testing Instructions
+
+[View the wiki for more information!](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/AGBM-11-%28AA%29-Build-Test-Order)
+
+## Battery Life Estimation
+
+In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 hours to 15 hours - this is heavily dependent on the type of screen kit you select.
+
+| Screen Kit     | Max Time | Min Time |
+| -------------- | -------- | -------- |
+| FP IPS Max     | 10h      | 5h       |
+| FP ITA         | 13h30m   | 7h       |
+| Hispeedido IPS | 10h      | 5h       |
+
+[View this wiki page for more information.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves#agbm-11)
+
 ## Bill of Materials (BOM)
 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
