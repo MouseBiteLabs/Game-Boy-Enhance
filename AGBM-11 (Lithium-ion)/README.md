@@ -22,7 +22,7 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 ## Assembly and Testing Instructions
 
-[View the wiki for more information!](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/AGBM-11-%28AA%29-Build-Test-Order)
+[View the wiki for more information!](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/AGBM-11-%28LiPo%29-Build-Test-Order)
 
 ## Battery Life Estimation
 
