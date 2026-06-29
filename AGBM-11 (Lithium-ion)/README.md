@@ -64,7 +64,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
-| C1        | 22u                 | 0805          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/3mhhrd2f](https://www.digikey.com/short/3mhhrd2f) |
+| C1        | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/z1rp0q17                                           |
 | C2        | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C3        | 27p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3dr3j004                                           |
 | C4        | 33p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q8jbrfqj                                           |
@@ -84,7 +84,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 | C18       | 100p                | 0603          | Capacitor (MLCC)                  |                      | [https://www.digikey.com/short/h34j0h9q](https://www.digikey.com/short/h34j0h9q) |
 | C19       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
 | C20       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
-| C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3mhhrd2f                                           |
+| C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/z1rp0q17                                           |
 | C22       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C23       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
 | C24       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/377h8558                                           |
@@ -105,7 +105,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 | C39       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C40       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q58vhz49                                           |
 | C41       | 15p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q58vhz49                                           |
-| C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3mhhrd2f                                           |
+| C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/z1rp0q17                                           |
 | C43       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C44       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C45       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
