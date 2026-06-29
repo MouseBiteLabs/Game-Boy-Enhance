@@ -62,7 +62,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 
 ## Bill of Materials (BOM)
 
-[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/qnpwdwbz) Be prepared to have to purchase some parts from other distributors, like Mouser. I tried to pick parts that were plentiful but that was not possible in all situations.
+**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/qnpwdwbz)** Be prepared to have to purchase some parts from other distributors, like Mouser. I tried to pick parts that were plentiful but that was not possible in all situations.
 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
