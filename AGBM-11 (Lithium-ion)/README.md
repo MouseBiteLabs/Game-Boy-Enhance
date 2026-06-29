@@ -18,11 +18,11 @@ Therefore, for projects you assemble yourself, it is 100% up to *you* to safely 
 
 Read this article before continuing down this path: https://batteryuniversity.com/article/lithium-ion-safety-concerns
 
-![image](https://github.com/MouseBiteLabs/Pocket-Protector-Power-Board/assets/97127539/e5de26d0-6b67-4bbc-820b-3a5d9aa0e80e)
-
 Also, I **highly recommend against using unbranded/no-name batteries, or batteries that do not come with a datasheet**. I work with batteries as part of my full-time job, and while I am not a battery expert myself, a few of my co-workers are. It is highly suspected that no-name batteries, especially those from AliExpress, are actually quality control *rejects* from other companies. So there's a high chance you're getting a battery that has failed quality controls when you get them from random sellers, or even reputable ones if they don't provide a datasheet. Stick only to **name-brand batteries** as they are much likelier to be safe.
 
 Or... just make an [AA version](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-01%20(AA%20Batteries)) instead. They will get you longer battery life without the chance for exploding batteries. And also won't require annoying shell cuts.
+
+![image](https://github.com/MouseBiteLabs/Pocket-Protector-Power-Board/assets/97127539/e5de26d0-6b67-4bbc-820b-3a5d9aa0e80e)
 
 ## Board Characteristics and Order Information
 
