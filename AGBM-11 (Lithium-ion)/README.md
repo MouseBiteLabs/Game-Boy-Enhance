@@ -1,4 +1,4 @@
-# AGBM-11 (Coming Soon)
+# AGBM-11
 
 [**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
 
@@ -274,6 +274,9 @@ Connector: [SHR-02V-S-B](https://www.digikey.com/short/0rzqt7nc)
 Heatshrink: [V2-1.5-0-SP-SM](https://www.digikey.com/short/p5q77jq0)
 
 ## Revision History
+
+### Late June '26
+- Removed unnecessary battery management components
 
 ### Early June '26
 - Change BATT to VAUD on silkscreen
