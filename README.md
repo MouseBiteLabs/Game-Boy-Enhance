@@ -4,9 +4,9 @@
 
 The Game Boy Advance was the very first system I ever purchased with my own money way back in 2002. It has a special place in my heart! Now, after spending so much time doing Game Boy Color projects over the past few years, I decided to get to work on the GBA to see what I could do with it to modernize and improve it a bit. Luckily, I was able to complete this by the 25th anniversary of the GBA's release in North America to celebrate!
 
-<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/1783a4dd-2242-4b4e-8be2-5135a4402b23" />
+<img width="3982" height="2900" alt="agbm11_front" src="https://github.com/user-attachments/assets/45f4c4b2-f8e7-4b51-b522-dd91a46b12d3" />
 
-<img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/efcdfb47-093b-4c6f-9c5e-1ee475ac6f77" />
+<img width="3982" height="2900" alt="agbm11_back" src="https://github.com/user-attachments/assets/285afe47-ba86-495d-8823-06498b6e0c9a" />
 
 There's not a whole lot that needs to be "fixed" with modded GBAs - you can get away with a pretty great modern system by simply throwing in a screen kit on an original console. But as you probably well know, there are a *ton* of really damaged and crusty systems out there that are doomed for landfills (or for the closets of sickos like me). So at least for that reason, this fully open source GBA recreation only requires the original CPU and RAM - every single other part is **brand new** or has easily-sourced replacements available.
 
