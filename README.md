@@ -2,8 +2,6 @@
 
 # Game Boy Enhance (AGBM)
 
-*Note: At the time of writing, only the AGBM-01 is completed, which uses AA batteries. The lithium-ion version, AGBM-11, is coming soon.*
-
 The Game Boy Advance was the very first system I ever purchased with my own money way back in 2002. It has a special place in my heart! Now, after spending so much time doing Game Boy Color projects over the past few years, I decided to get to work on the GBA to see what I could do with it to modernize and improve it a bit. Luckily, I was able to complete this by the 25th anniversary of the GBA's release in North America to celebrate!
 
 <img width="2364" height="1308" alt="image" src="https://github.com/user-attachments/assets/1783a4dd-2242-4b4e-8be2-5135a4402b23" />
