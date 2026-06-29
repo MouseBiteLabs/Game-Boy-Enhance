@@ -280,6 +280,8 @@ As a last resort, AliExpress seems to have a decent bit of them. (Order at your 
 
 ## Lithium-ion Battery Supplies
 
+**DANGER:** Any lithium-ion battery you select for this mod **MUST** have overcharge/overdischarge protection as part of the pouch cell. **THE AGBM DOES NOT PROVIDE THESE PROTECTIONS**. The cell I link below has the proper safety circuitry.
+
 Use these parts and follow the instructions on the wiki page [LiPo Wire Preparation](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/LiPo-Wire-Preparation).
 
 Battery: [LP103048JU+PCM+2 WIRES 70MM](https://www.digikey.com/short/f205f9n9)
