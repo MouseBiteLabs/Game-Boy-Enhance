@@ -295,7 +295,7 @@ Heatshrink: [V2-1.5-0-SP-SM](https://www.digikey.com/short/p5q77jq0)
 ## Revision History
 
 ### Late June '26
-- Removed unnecessary battery management components
+- Removed duplicate battery management components that was interfering with pouch cell protection circuitry
 
 ### Early June '26
 - Change BATT to VAUD on silkscreen
