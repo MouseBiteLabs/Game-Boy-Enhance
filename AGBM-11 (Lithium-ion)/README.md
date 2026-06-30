@@ -62,7 +62,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 
 ## Bill of Materials (BOM)
 
-**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/qnpwdwbz)** Be prepared to have to purchase some parts from other distributors, like Mouser. I tried to pick parts that were plentiful but that was not possible in all situations.
+**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/wj532wvh)** Be prepared to have to purchase some parts from other distributors, like Mouser. I tried to pick parts that were plentiful but that was not possible in all situations.
 
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
@@ -163,6 +163,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 | Q1        | 2N3904              | SOT-23        | NPN BJT                           |                      | https://www.digikey.com/short/5j230h4f                                           |
 | Q2        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
 | Q3        | 2N3906              | SOT-23        | PNP BJT                           |                      | https://www.digikey.com/short/hhdhqzd8                                           |
+| Q4*       | EXB-34VR000V        | 2x 0603       | Resistor Array                    |                      | https://www.digikey.com/short/8m2c88mh                                           |
 | Q5        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
 | Q6        | 2N7002              | SOT-23        | N-Channel MOSFET                  |                      | https://www.digikey.com/short/vbm0z4md                                           |
 | Q7        | NDC7002N            | SOT-23-6      | Dual N-Channel MOSFETs            |                      | https://www.digikey.com/short/28n9329f                                           |
@@ -227,6 +228,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 | R56       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R57       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R58       | 470                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/qw9vn9hr](https://www.digikey.com/short/qw9vn9hr) |
+| R60*      | 0                   | 0603          | Resistor                          |                      | https://www.digikey.com/short/9q3qp9bv                                           |
 | R61       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R62       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
 | R63       | 15k                 | 0603          | Resistor                          |                      | [https://www.digikey.com/short/b4mcvwnd](https://www.digikey.com/short/b4mcvwnd) |
@@ -267,6 +269,12 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 | Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Resistor: https://www.digikey.com/short/9q3qp9bv                                 |
 | Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
 | Z71       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Resistor: https://www.digikey.com/short/rpz9t4md                                 |
+
+### Note about Q4 and R60
+
+These parts are only found on AGBM-11 boards that were produced in mid-May of '26 (that have the following date code). You can ignore them if you have any other version.
+
+<img width="424" height="249" alt="image" src="https://github.com/user-attachments/assets/506f5b07-3798-4394-8dcb-26e2c6b79324" />
 
 ### Note about LTC3527
 
