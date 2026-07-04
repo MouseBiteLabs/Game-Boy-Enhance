@@ -12,7 +12,7 @@ There's not a whole lot that needs to be "fixed" with modded GBAs - you can get 
 
 Other than that, you might be asking yourself - what separates this from a regular modded system, or one of those fancy Funnyplaying GBA boards? Well, here's a quick run-down:
 - The audio on the AGBM is crystal clear, not dependent on whatever screen kit is being used, and has **stereo** output on the headphone jack (unlike the FP GBA) - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Audio-Recordings">listen to the audio samples in the Wiki</a>
-- The AGBM draws ~150mW less than the FP GBA (even with the fancy LEDs off) - this equates to anywhere between 1 to 4 hours **more** playtime depending on the power draw based on your settings (like brightness level) - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves">check out the battery curves page in the Wiki</a>
+- The AGBM draws ~150mW less than the FP GBA (even with the fancy LEDs off) depending on the AGBM model - this equates to anywhere between 1 to 4 hours **more** playtime depending on the power draw based on your settings (like brightness level) - <a href="https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves">check out the battery curves page in the Wiki</a>
 - The AGBM is *also* more efficient than using an original GBA board with a screen kit installed in almost all situations (again, see the Wiki for more info)
 - Other than the CPU and RAM, the AGBM uses **all brand-new components** - even the power switch and audio jack
 - The AGBM has offerings for powering through AA batteries (AGBM-0X models), or native LiPo support (AGBM-1X models)
@@ -29,12 +29,12 @@ This project is a labor of love, built on the backs of the greats (noted in the 
 
 Here's a quick table summarizing the differences between the board numbers. Boards that are numbered with 0X use AA batteries, and those with 1X use lithium-ion batteries.
 
-| Board Number | Battery Type | Main Converter |
-| ------------ | ------------ | -------------- |
-| [AGBM-CPU-01](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-01%20(AA%20Batteries))  | AA           | LTC3527        | 
-| AGBM-CPU-02  | AA           | TPS63802       |
-| [AGBM-CPU-11](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-11%20(Lithium-ion))  | Lithium-ion  | LTC3527        |
-| AGBM-CPU-12  | Lithium-ion  | TPS63802       |
+| Board Number                                                                                           | Battery Type | Main Converter | Typical Battery Life |
+| ------------------------------------------------------------------------------------------------------ | ------------ | -------------- | -------------------- |
+| [AGBM-CPU-01](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-01%20(AA%20Batteries))  | AA           | LTC3527        | 5h20m to 15h30m      |
+| [AGBM-CPU-02](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-02%20(AA%20Batteries))  | AA           | TPS63802       | 5h30m to 16h         |
+| [AGBM-CPU-11](https://github.com/MouseBiteLabs/Game-Boy-Enhance/tree/main/AGBM-11%20(Lithium-ion))     | Lithium-ion  | LTC3527        | 5h to 13h30m         |
+| AGBM-CPU-12                                                                                            | Lithium-ion  | TPS63802       | Not tested yet       |
 
 ## Important Things Before You Start
 
