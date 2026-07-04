@@ -26,7 +26,7 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 ## Battery Life Estimation
 
-In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 hours to 15 hours - this is heavily dependent on the type of screen kit you select.
+In short, when using eneloop pro NiMH batteries, you can expect anywhere from y hours to x hours - this is heavily dependent on the type of screen kit you select.
 
 | Screen Kit     | Max Time | Min Time |
 | -------------- | -------- | -------- |
@@ -215,7 +215,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | SW5       | SKRRABE010          |               | Tactile Switch x2 (Optional)      |                      | https://www.digikey.com/short/2cqndb3b                                           |
 | SW6       | SKRRABE010          |               | Tactile Switch x4 (Optional)      |                      | https://www.digikey.com/short/2cqndb3b                                           |
 | U1        | AGB-CPU             | QFP-128       | GBA CPU                           | Yes                  | Salvage                                                                          |
-| U2        | AGB-SRAM            | TSOP-48       | GBA SRAM                          | Yes                  | Salvage                                                                          |
+| U2        | AGB-SRAM            | TSOP-48       | GBA SRAM                          | Yes                  | https://www.digikey.com/short/dwnw5t0h                                           |
 | U3        | TPS3840DL20         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/pq9b8pqv                                           |
 | U4        | NCV8164ASN250T1G    | SOT-23-5      | 2.5V Linear Regulator             |                      | https://www.digikey.com/short/vzm4m93z                                           |
 | U5        | TPS63802            | VSON-10       | Buck-Boost Converter              |                      | https://www.digikey.com/short/3rwd04md                                           |
@@ -236,7 +236,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | https://www.digikey.com/short/zh4rmq4h                                           |
 | X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes                  | https://www.digikey.com/short/5t5j99c2                                           |
 | Z57       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Capacitor: https://www.digikey.com/short/h34j0h9q                                |
-| Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Jumper: https://www.digikey.com/short/9q3qp9bv                                 |
+| Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Jumper: https://www.digikey.com/short/9q3qp9bv                                   |
 | Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
 | Z71       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Resistor: https://www.digikey.com/short/rpz9t4md                                 |
 
