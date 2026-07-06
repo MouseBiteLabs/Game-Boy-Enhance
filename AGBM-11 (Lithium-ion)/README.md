@@ -264,7 +264,7 @@ In short, when using the linked Jauch lithium-ion battery, you can expect anywhe
 | U19       | MCP73871-2CAI/ML    | QFN-20        | Battery Charge IC                 |                      | [https://www.digikey.com/short/2fq0m95z](https://www.digikey.com/short/2fq0m95z) |
 | VR1       | 3313J-2-503E        |               | Trim Pot, 50k                     | Yes                  | [https://www.digikey.com/short/p8zptq5h](https://www.digikey.com/short/p8zptq5h) |
 | VR2       | RK10J12R0A0B        |               | Volume Thumbwheel, 10k, Dual      |                      | https://www.digikey.com/short/zh4rmq4h                                           |
-| X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes                  | https://www.digikey.com/short/5t5j99c2                                           |
+| X1        | 4.194304MHz         | HC-49         | Crystal Oscillator                | Yes (SEE NOTE)       | https://www.digikey.com/short/5t5j99c2                                           |
 | Z57       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Capacitor: https://www.digikey.com/short/h34j0h9q                                |
 | Z58       | 100p // 0 ohm       | 0603          | Capacitor (MLCC) // Jumper        |                      | Resistor: https://www.digikey.com/short/9q3qp9bv                                 |
 | Z70       | 27p // 100k         | 0603          | Capacitor (MLCC) // Resistor      |                      | Capacitor: https://www.digikey.com/short/3dr3j004                                |
@@ -287,6 +287,10 @@ This part has been going in and out of stock at various places for the past few 
 - [Octopart](https://octopart.com/search?autosugg_idx=test&currency=USD&specs=0&full_query=ltc3527+&q=ltc3527&nq=ltc3527&s=1&inferred_category_id=4305&inference=1) lists a lot of different distributors and their stock levels
 
 As a last resort, AliExpress seems to have a decent bit of them. (Order at your own risk!)
+
+### Crystal Oscillator
+
+You might have an easier time with fitment if you use the donor crystal oscillator instead of the new part.
 
 ## Lithium-ion Battery Supplies
 
