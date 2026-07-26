@@ -1,4 +1,4 @@
-# AGBM-02 (UNDER CONSTRUCTION)
+# AGBM-02 (UNDER CONSTRUCTION - WILL BE DONE SOON)
 
 [**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
 
