@@ -34,7 +34,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | FP ITA         | 15h30m   | 8h       |
 | Hispeedido IPS | 11h      | 5h20m    |
 
-[View this wiki page for more information.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves#agbm-01)
+[View this wiki page for more information.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves#agbm-01-agbm-02)
 
 ## Bill of Materials (BOM)
 
