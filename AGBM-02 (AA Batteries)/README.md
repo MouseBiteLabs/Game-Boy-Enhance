@@ -1,8 +1,8 @@
-# AGBM-02 (UNDER CONSTRUCTION - WILL BE DONE SOON)
+# AGBM-02
 
 [**Reference the Wiki for more information on how to use this circuit board!**](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/How-to-Use-this-Wiki)
 
-[board image]
+![image](https://github.com/user-attachments/assets/b00309fc-8c59-45a5-9b41-6c6c1231f48c)
 
 ## Board Characteristics and Order Information
 
@@ -26,15 +26,15 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 ## Battery Life Estimation
 
-In short, when using eneloop pro NiMH batteries, you can expect anywhere from y hours to x hours - this is heavily dependent on the type of screen kit you select.
+In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 hours to 15 hours - this is heavily dependent on the type of screen kit you select. Note that these times are estimated from the AGBM-01; the total playtime should be similar.
 
 | Screen Kit     | Max Time | Min Time |
 | -------------- | -------- | -------- |
-| FP IPS Max     | x        | y        |
-| FP ITA         | x        | y        |
-| Hispeedido IPS | x        | y        |
+| FP IPS Max     | 10h15m   | 6h       |
+| FP ITA         | 15h30m   | 8h       |
+| Hispeedido IPS | 11h      | 5h20m    |
 
-[View this wiki page for more information.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves#agbm-01)
+[View this wiki page for more information.](https://github.com/MouseBiteLabs/Game-Boy-Enhance/wiki/Power-Draw-and-Battery-Curves#agbm-01-agbm-02)
 
 ## Bill of Materials (BOM)
 
