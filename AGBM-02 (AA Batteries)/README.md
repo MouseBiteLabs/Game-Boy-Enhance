@@ -44,7 +44,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
 | BT1       |                     |               | AA Battery Terminals              | Yes                  | [https://tinyurl.com/yrnsncnj](https://tinyurl.com/yrnsncnj)                     |
 | C1        | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/nqdjrz7d                                           |
-| C2        | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C2        | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C3        | 27p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3dr3j004                                           |
 | C4        | 33p                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/q8jbrfqj                                           |
 | C5        | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
@@ -54,7 +54,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C9        | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C10       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C11       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
-| C12       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C12       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C13       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C14       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C15       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
@@ -65,7 +65,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C20       | 100p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/h34j0h9q                                           |
 | C21       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/nqdjrz7d                                           |
 | C22       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
-| C23       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C23       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C24       | 1000p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/377h8558                                           |
 | C25       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C26       | 680p                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/jm5qjr7w                                           |
@@ -79,7 +79,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C34       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C35       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3p3jj3wt                                           |
 | C36       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
-| C37       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C37       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C38       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C39       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C42       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/nqdjrz7d                                           |
@@ -97,15 +97,15 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C54       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C55       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C56       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
-| C57       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C57       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C58       | 22u                 | 0805          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/nqdjrz7d                                           |
-| C59       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
-| C60       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C59       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
+| C60       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C61       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3p3jj3wt                                           |
 | C62       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
 | C63       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
 | C64       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
-| C68       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/qd4q4f1m                                           |
+| C68       | 10u                 | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/90j37vwp                                           |
 | C69       | 1u                  | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/2ppmm3vt                                           |
 | C72       | 0.1u                | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/m958w3z3                                           |
 | C73       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
@@ -116,9 +116,9 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | C78       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
 | C79       | 0.01u               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/j50jww8m                                           |
 | C80       | 3300p               | 0603          | Capacitor (MLCC)                  |                      | https://www.digikey.com/short/3p3jj3wt                                           |
-| CP1       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/332b01qh                                           |
-| CP2       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/332b01qh                                           |
-| CP3       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/332b01qh                                           |
+| CP1       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/w5p7f0nd                                           |
+| CP2       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/w5p7f0nd                                           |
+| CP3       | 100u                | 1210          | Capacitor (Tantalum Electrolytic) |                      | https://www.digikey.com/short/w5p7f0nd                                           |
 | D1        | 1SS355VMTE-17       | SOD-323       | Diode                             |                      | https://www.digikey.com/short/b42wmndz                                           |
 | D2        | 1SS355VMTE-17       | SOD-323       | Diode                             |                      | https://www.digikey.com/short/b42wmndz                                           |
 | DL1       | 150060VS75000       | 0603          | LED (Green)                       |                      | https://www.digikey.com/short/ttf7q4w7                                           |
