@@ -131,7 +131,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | L1        | 0.47uH              | 0806          | Inductor (DFE201612E-R47M=P2)     |                      | https://www.digikey.com/short/bzz0q0d1                                           |
 | L2        | 0.47uH              | 0806          | Inductor (DFE201612E-R47M=P2)     |                      | https://www.digikey.com/short/bzz0q0d1                                           |
 | P1        | CART SLOT           |               | GBA Cartridge Slot                | Yes                  | https://tinyurl.com/4uwbr8er                                                     |
-| P2        | FFC CONNECTOR       | 40-pin, 0.5mm | FFC Connector, Top Contact        |                      | https://www.digikey.com/short/13cnr9vq                                           |
+| P2        | 62684-402100ALF     | 40-pin, 0.5mm | FFC Connector, Top Contact        |                      | https://www.digikey.com/short/13cnr9vq                                           |
 | P3        | SJ-3524-SMT         |               | 3.5mm TRS Audio Jack              |                      | https://www.digikey.com/short/r4b2bq43                                           |
 | P4        | AGB-LINK            |               | GBA Link Port                     | Yes                  | https://tinyurl.com/253x94mn                                                     |
 | PTC1      | 0805L075SLYR        | 0805          | PTC, Resettable Fuse              |                      | https://www.digikey.com/short/43nq0332                                           |
