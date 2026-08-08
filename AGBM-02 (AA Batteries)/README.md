@@ -128,8 +128,8 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | EM3       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | https://www.digikey.com/short/c329ffdd                                           |
 | EM7       | MH1608-601Y         | 0603          | Ferrite Bead                      |                      | https://www.digikey.com/short/c329ffdd                                           |
 | F1        | F0805B2R00FSTR      | 0805          | Fuse, 2A                          |                      | https://www.digikey.com/short/98cdp3tv                                           |
-| L1        | 0.47uH              | 0806          | Inductor (DFE201612E-R47M=P2)     |                      | https://www.digikey.com/short/bzz0q0d1                                           |
-| L2        | 0.47uH              | 0806          | Inductor (DFE201612E-R47M=P2)     |                      | https://www.digikey.com/short/bzz0q0d1                                           |
+| L1        | 0.47uH              | 0806          | Inductor (CIGT201610EHR47MNE)     |                      | https://www.digikey.com/short/54dnztr9                                           |
+| L2        | 0.47uH              | 0806          | Inductor (CIGT201610EHR47MNE)     |                      | https://www.digikey.com/short/54dnztr9                                           |
 | P1        | CART SLOT           |               | GBA Cartridge Slot                | Yes                  | https://tinyurl.com/4uwbr8er                                                     |
 | P2        | 62684-402100ALF     | 40-pin, 0.5mm | FFC Connector, Top Contact        |                      | https://www.digikey.com/short/13cnr9vq                                           |
 | P3        | SJ-3524-SMT         |               | 3.5mm TRS Audio Jack              |                      | https://www.digikey.com/short/r4b2bq43                                           |
