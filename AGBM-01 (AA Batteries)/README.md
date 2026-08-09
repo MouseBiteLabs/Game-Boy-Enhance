@@ -168,7 +168,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R24       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R25       | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/7h8fhdzr                                           |
 | R26       | 33k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/t0dpzzp1                                           |
-| R29       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
+| R29       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/92dm08md                                           |
 | R30       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R31       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R34       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
@@ -185,13 +185,13 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R45       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R46       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R47       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
-| R48       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
+| R48       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/92dm08md                                           |
 | R49       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R50       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
 | R51       | 7.5k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/vn4221jt                                           |
 | R52       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R53       | 5.1k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/qqj3r2v5                                           |
-| R54       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
+| R54       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/92dm08md                                           |
 | R55       | 1M                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/pwjt9n2j                                           |
 | R56       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
 | R57       | 20k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/38d0p2b4                                           |
