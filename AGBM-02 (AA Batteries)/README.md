@@ -165,7 +165,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 | R19       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
 | R20       | 1k                  | 0603          | Resistor                          |                      | https://www.digikey.com/short/nwddb5fm                                           |
 | R24       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
-| R25       | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/w0t24jpv                                           |
+| R25       | 3.3k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/b8bf03mm                                           |
 | R26       | 33k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/wn8fhvz4                                           |
 | R29       | 18k                 | 0603          | Resistor                          |                      | https://www.digikey.com/short/1rfwtcff                                           |
 | R30       | 100k                | 0603          | Resistor                          |                      | https://www.digikey.com/short/rpz9t4md                                           |
