@@ -40,6 +40,8 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 
 **[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/zw9794zv)**
 
+In this shopping cart, I provided *some* extra parts just in case you lose/damage one of the lesser expensive parts. Also, please note that the RAM listed is *only* if your donor console's RAM is suspected to be damaged in some way.
+
 | Reference | Value/Part Number   | Package       | Description                       | Salvagable from GBA? | Source                                                                           |
 | --------- | ------------------- | ------------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
 | BT1       |                     |               | AA Battery Terminals              | Yes                  | [https://tinyurl.com/yrnsncnj](https://tinyurl.com/yrnsncnj)                     |
