@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/b00309fc-8c59-45a5-9b41-6c6c1231f48c)
 
-## Board Characteristics and Order Information
+## Board Characteristics
 
 The zipped folder contains all the gerber files for this board. The following options must be chosen when ordering boards for yourself.
 
@@ -12,13 +12,21 @@ The zipped folder contains all the gerber files for this board. The following op
 - Layers: 4
 - Surface Finish: ENIG (HASL is acceptable **ONLY IF** you are using tactile switches for the buttons)
 
-**I sell this blank circuit board on Etsy, so you don't have to buy a bunch of multiples if you don't want to.** (Click the banner!)
-
-<a href="https://mousebitelabs.etsy.com/listing/4520511265"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97127539/239718536-5c9aefe3-0628-4434-b8d8-55ff80ac3bbc.png" alt="PCB from Etsy" /></a> 
-
 You can use the zipped folder at any board fabricator you like. You may also buy the board from PCBWay using this link (disclosure: I receive 10% of the sale value to go towards future PCB orders of my own):
 
 <a href="https://www.pcbway.com/"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
+### Purchase from My Website
+
+You can purchase this circuit board at my website, [https://mousebitelabs.store](https://mousebitelabs.store). Click the following image to be directed to the specific item listing:
+
+<a href="https://mousebitelabs.store/products/game-boy-enhance-circuit-board"><img width="600" height="314" src="https://github.com/user-attachments/assets/58841b5b-2396-4256-81b8-9daa9a98df23" alt="PCB from MouseBiteLabs"/></a>
+
+### Purchase from Etsy
+
+I also offer the board on Etsy, if you would rather purchase through there - click the banner to be redirected.
+
+<a href="https://mousebitelabs.etsy.com/listing/4520511265"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97127539/239718536-5c9aefe3-0628-4434-b8d8-55ff80ac3bbc.png" alt="PCB from Etsy" /></a> 
 
 ## Assembly and Testing Instructions
 
