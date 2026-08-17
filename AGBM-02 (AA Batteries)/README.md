@@ -14,7 +14,7 @@ The zipped folder contains all the gerber files for this board. The following op
 
 You can use the zipped folder at any board fabricator you like. You may also buy the board from PCBWay using this link (disclosure: I receive 10% of the sale value to go towards future PCB orders of my own):
 
-<a href="https://www.pcbway.com/"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Game_Boy_Enhance_AGBM_02_06435d43.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ### Purchase from My Website
 
@@ -255,6 +255,10 @@ In this shopping cart, I provided *some* extra parts just in case you lose/damag
 Usually people order speakers from Game Boy aftermarket parts sellers, [like this](https://tinyurl.com/yxxmec4w). But, if you would rather get a speaker from Digikey, there is one that fits perfectly in the system: [CMS-2207-18SP](https://www.digikey.com/short/1q4nr8tm).
 
 ## Revision History
+
+### Early July '26
+
+- Added through-hole footprint for the crystal oscillator
 
 ### Late June '26
 
