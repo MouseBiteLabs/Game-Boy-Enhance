@@ -38,7 +38,7 @@ In short, when using eneloop pro NiMH batteries, you can expect anywhere from 5 
 
 ## Bill of Materials (BOM)
 
-**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/zw9794zv)**
+**[Here's a pre-made Digikey shopping cart.](https://www.digikey.com/short/0mjv40tv)**
 
 In this shopping cart, I provided *some* extra parts just in case you lose/damage one of the lesser expensive parts. Also, please note that the RAM listed is *only* if your donor console's RAM is suspected to be damaged in some way.
 
@@ -229,7 +229,7 @@ In this shopping cart, I provided *some* extra parts just in case you lose/damag
 | U11       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/b880z8t8                                           |
 | U12       | TPS22917DBV         | SOT-23-6      | Load Switch                       |                      | https://www.digikey.com/short/b880z8t8                                           |
 | U13       | TPS63802            | VSON-10       | Buck-Boost Converter              |                      | https://www.digikey.com/short/3rwd04md                                           |
-| U14       | MIC1553             | SOT-23-5      | 555 Timer                         |                      | https://www.digikey.com/short/nrrw2pnh                                           |
+| U14       | MIC1557             | SOT-23-5      | 555 Timer                         |                      | https://www.digikey.com/short/58m495mr                                           |
 | U15       | SN74LVC1G332        | SOT-23-6      | 3-Input OR Gate                   |                      | https://www.digikey.com/short/734hmb3p                                           |
 | U16       | SN74HC02PWR         | TSSOP-14      | Quad 2-Input NOR Gate             |                      | https://www.digikey.com/short/t1r20n2n                                           |
 | U17       | TPS3840DL20         | SOT-23-5      | Voltage Supervisor                |                      | https://www.digikey.com/short/pq9b8pqv                                           |
