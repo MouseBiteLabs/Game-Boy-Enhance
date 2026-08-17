@@ -20,7 +20,7 @@ You can use the zipped folder at any board fabricator you like. You may also buy
 
 You can purchase this circuit board at my website, [https://mousebitelabs.store](https://mousebitelabs.store). Click the following image to be directed to the specific item listing:
 
-<a href="https://mousebitelabs.store/products/game-boy-enhance-circuit-board"><img width="600" height="314" src="https://github.com/user-attachments/assets/58841b5b-2396-4256-81b8-9daa9a98df23" alt="PCB from MouseBiteLabs"/></a>
+<a href="https://mousebitelabs.store/products/game-boy-enhance-circuit-board"><img width="1070" height="182" alt="PCB from MouseBiteLabs" src="https://github.com/user-attachments/assets/14072b8c-4d47-434b-9c31-6d4ec74a28bc" /></a>
 
 ### Purchase from Etsy
 
