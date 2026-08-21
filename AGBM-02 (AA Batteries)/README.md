@@ -256,6 +256,10 @@ Usually people order speakers from Game Boy aftermarket parts sellers, [like thi
 
 ## Revision History
 
+### Late Aug '26
+
+- Narrowed pads for FFC connector for solderability (and to appease PCBway)
+
 ### Early July '26
 
 - Added through-hole footprint for the crystal oscillator
