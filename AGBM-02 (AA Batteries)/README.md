@@ -12,7 +12,7 @@ The zipped folder contains all the gerber files for this board. The following op
 - Layers: 4
 - Surface Finish: ENIG (HASL is acceptable **ONLY IF** you are using tactile switches for the buttons)
 
-You can use the zipped folder at any board fabricator you like. You may also buy the board from PCBWay using this link (disclosure: I receive 10% of the sale value to go towards future PCB orders of my own):
+You can use one of the zipped folders at any board fabricator you like - however, you should use the PCBWay Gerber folder for ordering from PCBWay. You may also buy the board from PCBWay directly using this link (disclosure: I receive 10% of the sale value to go towards future PCB orders of my own):
 
 <a href="https://www.pcbway.com/project/shareproject/Game_Boy_Enhance_AGBM_02_06435d43.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
