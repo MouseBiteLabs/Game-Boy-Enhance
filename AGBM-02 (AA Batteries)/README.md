@@ -260,7 +260,7 @@ You might have noticed there are two zipped folders for this project - one label
 
 <img width="1299" height="686" alt="image" src="https://github.com/user-attachments/assets/c3cf3c22-24cf-474c-b0c5-57c001f16fc7" />
 
-It should not make a huge difference which you select, though I expect the non-PCBWay version to be slightly easier to solder with a hot plate or hot air. So, only use the PCBWay Gerber files if you are ordering from PCBWay.
+It should not make a huge difference which you select, though I suspect the non-PCBWay version might be slightly easier to solder with a hot plate or hot air, but this is not a guarantee. Therefore, I recommend to only use the PCBWay Gerber files if you are ordering from PCBWay.
 
 ## Revision History
 
