@@ -254,13 +254,13 @@ In this shopping cart, I provided *some* extra parts just in case you lose/damag
 
 Usually people order speakers from Game Boy aftermarket parts sellers, [like this](https://tinyurl.com/yxxmec4w). But, if you would rather get a speaker from Digikey, there is one that fits perfectly in the system: [CMS-2207-18SP](https://www.digikey.com/short/1q4nr8tm).
 
-## Difference in Gerber Folders
+## Difference in Gerbers
 
 You might have noticed there are two zipped folders for this project - one labaled "PCBWay" and the other not. The reason for this is because of PCBWay's capability requirements for solder mask connections. They require that all solder mask bridges must be at least 0.19mm in width (or 0.22mm for specific colors). For JLCPCB, this requirement is 0.1mm (or 0.13mm for specific colors). There are two QFN components in this project that have solder mask bridges between the pads set for 0.13mm in width - thus JLCPCB can manufacture them without issue. PCBWay, however, requires a wider bridge which cannot be achieved on the QFN footprint, so to make it meet the requirements, an area of mask has been routed out for the PCBWay files. The difference can be seen here:
 
 <img width="1299" height="686" alt="image" src="https://github.com/user-attachments/assets/c3cf3c22-24cf-474c-b0c5-57c001f16fc7" />
 
-It should not make a huge difference which you select, though I expect the non-PCBWay version to be slightly easier to solder with a hot plate or hot air. So, only use the PCBWay GERBER files if you are ordering from PCBWay.
+It should not make a huge difference which you select, though I expect the non-PCBWay version to be slightly easier to solder with a hot plate or hot air. So, only use the PCBWay Gerber files if you are ordering from PCBWay.
 
 ## Revision History
 
